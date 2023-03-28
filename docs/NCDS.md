@@ -12,14 +12,14 @@ The 1958 National Child Development Study (NCDS) is following the lives of an in
 
 | Data type       | Array       |Number samples | N SNPs |Data size   | Link to apply        |
 | :---            |    :----:   |    :----:     |   :----:|  :----:  |          ---:        |
-| Genetic         | Illumina 1.2M  | 2908        |     1157986              | XXGB       |https://cls.ucl.ac.uk/data-access-training/data-access/ |
-| Genetic         | Illumina 15k Custom Chip   | 1475        |    9803               | XXGB       |https://cls.ucl.ac.uk/data-access-training/data-access/ |
-| Genetic         | Illumina Human 660-Quad   | 871         |         582892          | XXGB       |https://cls.ucl.ac.uk/data-access-training/data-access/ |
-| Genetic         | Infinium HumanHap 550K v1.1   | 1436         |         555174          | XXGB       |https://cls.ucl.ac.uk/data-access-training/data-access/ |
-| Genetic         |Infinium HumanHap 550K v3   | 2592         |       561303            | XXGB       |https://cls.ucl.ac.uk/data-access-training/data-access/ |
-| Genetic         |Affymetrix 500k  | 490032         |      490032             | XXGB       |https://cls.ucl.ac.uk/data-access-training/data-access/ |
-| Genetic         |Affymetrix v6 | XX         |    934967               | XXGB       |https://cls.ucl.ac.uk/data-access-training/data-access/ |
-| DNA Methylation | EPIC  | 934967          |                | XXGB       |https://cls.ucl.ac.uk/data-access-training/data-access/ |
+| Genetic         | Illumina 1.2M  | 2908        |     1157986              | XXGB       |<https://cls.ucl.ac.uk/data-access-training/data-access/> |
+| Genetic         | Illumina 15k Custom Chip   | 1475        |    9803               | XXGB       |<https://cls.ucl.ac.uk/data-access-training/data-access/> |
+| Genetic         | Illumina Human 660-Quad   | 871         |         582892          | XXGB       |<https://cls.ucl.ac.uk/data-access-training/data-access/> |
+| Genetic         | Infinium HumanHap 550K v1.1   | 1436         |         555174          | XXGB       |<https://cls.ucl.ac.uk/data-access-training/data-access/> |
+| Genetic         |Infinium HumanHap 550K v3   | 2592         |       561303            | XXGB       |<https://cls.ucl.ac.uk/data-access-training/data-access/> |
+| Genetic         |Affymetrix 500k  | 490032         |      490032             | XXGB       |<https://cls.ucl.ac.uk/data-access-training/data-access/> |
+| Genetic         |Affymetrix v6 | XX         |    934967               | XXGB       |<https://cls.ucl.ac.uk/data-access-training/data-access/> |
+| DNA Methylation | EPIC  | 934967          |                | XXGB       |<https://cls.ucl.ac.uk/data-access-training/data-access/> |
 
 
 ## Genetic QC

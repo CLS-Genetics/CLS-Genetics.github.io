@@ -10,7 +10,7 @@ Here at CLS we have genetic data for three cohorts: the 1958 Childhood Developme
 
 The genetic data is managed by CLS at UCL (<https://cls.ucl.ac.uk/>). 
 
-To access genetic data combined with survey data, please see <https://cls.ucl.ac.uk/data-access-training/data-access/>.
+To access genetic data combined with survey data, please see <https://cls.ucl.ac.uk/data-access-training/data-access/>. (i.e., complete the application form which is then reviewed approximately monthly in data access committee meetings).
 
 ## Updates:
 - Forthcoming: QC'd data in each cohort and polygenic scores (see link below)

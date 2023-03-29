@@ -4,7 +4,7 @@ title: BCS70
 nav_order: 4
 ---
 
-# BCS70
+## BCS70
 
 ## About
 

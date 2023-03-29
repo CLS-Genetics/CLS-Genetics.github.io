@@ -15,5 +15,8 @@ The Millennium Cohort Study (MCS), known as ‘Child of the New Century’ to co
 | Genetic         | GSA Array v1   | ~20,000          | XXGB       |https://cls.ucl.ac.uk/data-access-training/data-access/ |
 | Exome | TWIST  | XX           | XXT       |https://cls.ucl.ac.uk/data-access-training/data-access/ |
 
+
+
 ## Genetic QC
 
+DNA was extracted from saliva at wave 6 (age 14).

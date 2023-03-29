@@ -6,4 +6,4 @@ theme: just-the-docs
 nav_external_links:
   - title: CLS Genomics data
     url: https://cls-genetics.github.io/docs/intro.html
-    hide_icon: false # set to true to hide the external link icon - defaults to false
+

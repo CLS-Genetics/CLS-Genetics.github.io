@@ -4,7 +4,7 @@ title: Introduction
 nav_order: 1
 ---
 
-# Introduction 
+# **Introduction** 
 
 Here at CLS we have genetic data for three cohorts: the 1958 Childhood Development Study (NCDS), the 1970 British Cohort Study (BCS70) and the Millennium Cohort Study (MCS). This wiki provides documentation on the genetic QC for these datasets and what is available to researchers.
 

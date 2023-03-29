@@ -4,7 +4,7 @@ title: BCS70
 nav_order: 4
 ---
 
-# BCS70
+# **BCS70**
 
 The 1970 British Cohort Study (BCS70) is following the lives of around 17,000 people born in England, Scotland and Wales in a single week of 1970.
 

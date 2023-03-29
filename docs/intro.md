@@ -10,21 +10,6 @@ Here at CLS we have genomic data for three cohorts: the 1958 Childhood Developme
 
 The genetic data is managed by CLS at UCL (<https://cls.ucl.ac.uk/>). 
 
-<details>
-
-<summary>Tips for collapsed sections</summary>
-
-### You can add a header
-
-You can add text within a collapsed section. 
-
-You can add an image or a code block, too.
-
-```ruby
-   puts "Hello World"
-```
-
-</details>
 
 ## Data Access
 

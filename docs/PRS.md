@@ -4,7 +4,7 @@ title: Polygenic risk scores
 nav_order: 6
 ---
 
-# Polygenic risk scores 
+# **Polygenic risk scores** 
 
 ## Our Aim
 

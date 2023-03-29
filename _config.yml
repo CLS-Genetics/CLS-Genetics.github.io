@@ -2,6 +2,7 @@ title: CLS Genomics data
 description: This site provides all the details about the CLS genomic data 
 theme: just-the-docs
 
-url: https://github.com/CLS-Genetics/cls-genetics.github.io/
+url: https://github.com/CLS-Genetics/cls-genetics.github.io/docs/intro.html
 
-
+aux_links: # remove if you don't want this link to appear on your pages
+  Template Repository: https://github.com/CLS-Genetics/cls-genetics.github.io/docs/intro.html

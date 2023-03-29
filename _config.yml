@@ -4,6 +4,6 @@ theme: just-the-docs
 
 # External navigation links
 nav_external_links:
-  - title: CLS Genomics data
+  - title: Homepage
     url: https://cls-genetics.github.io/docs/intro.html
 

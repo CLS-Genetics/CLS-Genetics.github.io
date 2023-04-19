@@ -13,7 +13,7 @@ The 1958 National Child Development Study (NCDS) is following the lives of an in
 | Data type       | Array       |Number samples | N SNPs |
 | :---            |    :----:   |    :----:     |    ---: |  
 | Genetic         | Illumina 1.2M  | 2908        |     1157986              |
-| DNA Methylation | EPIC  | 934967          |                |
+| DNA Methylation | EPIC  |          |                |
 | Exome |  - |    -       |          -      |-
 
 
@@ -34,6 +34,6 @@ Here is information on the individual genotyping chips used
 | Genetic         |Infinium HumanHap 550K v3   | 2592         |       561303            |
 | Genetic         |Affymetrix 500k  | 490032         |      490032             | 
 | Genetic         |Affymetrix v6 | XX         |    934967               |
-| DNA Methylation | EPIC  | 934967          |                |
+| DNA Methylation | EPIC  |        |                |
 
 

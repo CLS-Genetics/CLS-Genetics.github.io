@@ -12,7 +12,7 @@ The 1958 National Child Development Study (NCDS) is following the lives of an in
 
 | Data type       | Array       |Number samples | N SNPs |
 | :---            |    :----:   |    :----:     |    ---: |  
-| Genetic         | Combined (see ##-Genotyping-arrays)  | 2908        |     1157986              |
+| Genetic         | Combined (see ##-genotyping-arrays)  | ~6400        |     1157986              |
 | DNA Methylation | Illumina EPIC  |          |                |
 | Exome |  - |    -       |          -      |-
 

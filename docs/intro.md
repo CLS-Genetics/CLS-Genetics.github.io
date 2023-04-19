@@ -6,7 +6,9 @@ nav_order: 1
 
 # **Introduction** 
 
-<span style="color:red">**Please note, this website is currently under construction. The information currently provided is likely to be updated**</span>.
+**_NOTE:_**  <span style="color:red">**Please note, this website is currently under construction. The information currently provided is likely to be updated**</span>.
+
+
 
 Here at CLS we have genomic data for three cohorts: the 1958 Childhood Development Study (NCDS), the 1970 British Cohort Study (BCS70) and the Millennium Cohort Study (MCS). This site provides documentation on the genetic QC for these datasets and what is available to researchers.
 

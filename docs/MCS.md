@@ -13,7 +13,7 @@ The Millennium Cohort Study (MCS), known as ‘Child of the New Century’ to co
 | Data type       | Array       |Number samples |Data size   | Link to apply        |
 | :---            |    :----:   |    :----:     |    :----:  |          ---:        |
 | Genetic         | GSA Array v1   | ~20,000          | XXGB       |https://cls.ucl.ac.uk/data-access-training/data-access/ |
-| Exome | TWIST  | XX           | XXT       |https://cls.ucl.ac.uk/data-access-training/data-access/ |
+| Whole exome sequencing| TWIST  | XX           | XXT       |https://cls.ucl.ac.uk/data-access-training/data-access/ |
 
 
 ## Genetic QC

@@ -14,7 +14,7 @@ The 1958 National Child Development Study (NCDS) is following the lives of an in
 | :---            |    :----:   |    :----:     |    ---: |  
 | Genetic         | Combined  | 6312        |     6,663,631 SNPs             |
 | DNA Methylation | Illumina EPIC  |     -     |        ~800,000 DNA methylation sites        |
-| Exome |  - |    -       |          -      |-
+| Exome |  - |    -       |          -      |- |
 
 
 

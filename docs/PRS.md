@@ -15,4 +15,4 @@ This will be for multiple health and social traits.
 
 ## Data availability
 
-Forthcoming / in preperation. Please email clsdata@ucl.ac.uk for updates.
+Forthcoming / in preparation. Please email clsdata@ucl.ac.uk for updates.

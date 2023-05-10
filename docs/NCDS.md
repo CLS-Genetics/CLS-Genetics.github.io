@@ -32,7 +32,7 @@ Bridges, E. C., Rayner, N. W., Mountford, H. S., Bates, T. C., & Luciano, M. (20
 
 ## Genotyping arrays
 
-Here is information on the individual genotyping chips used 
+Here is information on the individual genotyping chips used in the combined dataset. Breakdown of number of participants sampled on each array in the NCDS after removal of exclusions and duplications, and number of SNPs sequenced in each dataset (Bridges et al., 2023).
 
 | Data type       | Array       |Number samples | N SNPs |
 | :---            |    :----:   |    :----:     |    ---: |  

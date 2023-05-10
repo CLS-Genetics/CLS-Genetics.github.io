@@ -27,12 +27,12 @@ Imputed genotypes were then filtered with PLINK2.0alpha, excluding SNPs with an 
 Further QC was conducted on the combined dataset where individuals were excluded if they had (i) they had > 2% missing (9 individuals excluded) and (ii) they were related to another individual in the sample (king-cutoff 0.0884) (16 excluded), where one individual from each pair of related samples was excluded based on the King greedy related algorithm. SNPs with high levels of missing data (>3%) (56,268 variants excluded) and a Hardy-Weinberg equilibrium P < 0.0001 (2931 variants excluded) were excluded. Samples were further excluded if they were classed as non-European, determined by merging the NCDS combined genotypes with data from 1000 genomes Phase 3), linkage disequilibrium pruning the overlapping single nucleotide polymorphisms (SNPs) such that no pair of SNPs within 50 bp had r2 > 0.20 and visually inspecting the first two genetic principal components along with the known ethnicities of the 1000 genomes sample to define European samples (N=83 excluded). The final quality controlled imputed set of genotypes contained 6312 samples and 6,663,631 variants (genome build: GRCh37/ hg19).
 
 **When using this dataset please cite**:
-Bridges, E. C., Rayner, N. W., Mountford, H. S., Bates, T. C., & Luciano, M. (2023). Longitudinal Reading Measures and Genome Imputation in the National Child Development Study: Prospects for Future Reading Research. Twin Research and Human Genetics, 1-11.
+[Bridges, E. C., Rayner, N. W., Mountford, H. S., Bates, T. C., & Luciano, M. (2023). Longitudinal Reading Measures and Genome Imputation in the National Child Development Study: Prospects for Future Reading Research. Twin Research and Human Genetics, 1-11](https://www.cambridge.org/core/journals/twin-research-and-human-genetics/article/longitudinal-reading-measures-and-genome-imputation-in-the-national-child-development-study-prospects-for-future-reading-research/FAD4EFD7CE42759BAB7A5491935B18FC).
 
 
 ## Genotyping arrays
 
-Here is information on the individual genotyping chips used in the combined dataset. Breakdown of number of participants sampled on each array in the NCDS after removal of exclusions and duplications, and number of SNPs sequenced in each dataset (Bridges et al., 2023).
+Here is information on the individual genotyping chips used in the combined dataset. Breakdown of number of participants sampled on each array in the NCDS after removal of exclusions and duplications, and number of SNPs sequenced in each dataset [(Bridges et al., 2023)](https://www.cambridge.org/core/journals/twin-research-and-human-genetics/article/longitudinal-reading-measures-and-genome-imputation-in-the-national-child-development-study-prospects-for-future-reading-research/FAD4EFD7CE42759BAB7A5491935B18FC).
 
 | Data type       | Array       |Number samples | N SNPs |
 | :---            |    :----:   |    :----:     |    ---: |  

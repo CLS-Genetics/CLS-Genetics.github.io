@@ -11,7 +11,7 @@ The 1970 British Cohort Study (BCS70) is following the lives of around 17,000 pe
 ## Data availability 
 
 | Data type       | Array       |Number samples |Data size   | Link to apply        |
-| :---            |    :----:   |    :----:     |    :----:  |          ---:        |
+| :----:           |    :----:   |    :----:     |    :----:  |          :----:         |
 | Genetic         | GSA Array   | 5433          | 12GB       | coming soon [Q3 2023]|
 | DNA methylation | EPIC array  | 255           | XXGB       | coming soon [Q3 2023]|
 

@@ -35,7 +35,7 @@ Further QC was conducted on the combined dataset where individuals were excluded
 Here is information on the individual genotyping chips used in the combined dataset. Breakdown of number of participants sampled on each array in the NCDS after removal of exclusions and duplications, and number of SNPs sequenced in each dataset [(Bridges et al., 2023)](https://www.cambridge.org/core/journals/twin-research-and-human-genetics/article/longitudinal-reading-measures-and-genome-imputation-in-the-national-child-development-study-prospects-for-future-reading-research/FAD4EFD7CE42759BAB7A5491935B18FC).
 
 | Data type       | Array       |Number samples | N SNPs |
-| :---            |    :----:   |    :----:     |    ---: |  
+| :---            |    :---   |    :---      |    :---  |  
 | Genetic         | Illumina 1.2M  | 2908        |     1157986              |
 | Genetic         | Illumina 15k Custom Chip   | 1475        |    9803               |
 | Genetic         | Illumina Human 660-Quad   | 871         |         582892          |

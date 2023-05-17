@@ -12,7 +12,7 @@ The Millennium Cohort Study (MCS), known as ‘Child of the New Century’ to co
 
 | Data type       | Array / Imputation panel      |Number samples | Number variants  |
 | :----          |    :----   |    :----     |    :----     |        
-| Genetic (non QCd)        | GSA Array v1   | 21181          | 618540     |  
+| Genetic (non QCd)        | GSA Array v1   | 21,181          | 618,540     |  
 | Imputed  (QCd)      | TOPMED   | 20,101         | 8,135,390    |  
 | Whole exome sequencing| TWIST  | QC in progress           | QC in progress         |
 

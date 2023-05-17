@@ -13,5 +13,4 @@ nav_order: 7
 | MCS        | Millenium Cohort Study
 | NCDS      | National Child Development Study   |
 | PRS |  PRS (polygenic risk scores) summarise into a single score, the number of genetic variants an individual has linked to a particular trait  | 
-|QC | Quality control | 
-||  | 
+|QC | Quality control -the steps taken to monitor and control the quality of a product. In this case, the ‘product’ is a set of genetic data produced for the purpose of detecting genotype-phenotype associations and gene-environment interactions | 

@@ -11,7 +11,7 @@ The 1970 British Cohort Study (BCS70) is following the lives of around 17,000 pe
 ## Data availability 
 
 | Data type       | Array       |Number samples   | 
-| :----           |    :----  |    :----    |    :---- |       
+| :----           |    :----  |    :----    |      
 | Genetic         | GSA Array   | 5433             |
 | DNA methylation | EPIC array  | 255             | 
 

@@ -12,7 +12,7 @@ The 1958 National Child Development Study (NCDS) is following the lives of an in
 
 | Data type       | Array       |Number samples | Coverage |
 | :----            |    :----   |    :----     | :----    |  
-| Genetic         | Combined  | 6,312 individuals       |     6,663,631 SNPs             |
+| Genetic         | Combined  | 6,312 individuals       |     6,663,631 genetic variants             |
 | DNA Methylation | Illumina EPIC  |     1,377 (1,169 individuals)     |        ~800,000 DNA methylation sites        |
 | Exome |  Illumina HiSeq 2500 |    1,000       |          -      |
 

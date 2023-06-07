@@ -29,6 +29,7 @@ Further QC was conducted on the combined dataset where individuals were excluded
 **When using this dataset please cite**:
 [Bridges, E. C., Rayner, N. W., Mountford, H. S., Bates, T. C., & Luciano, M. (2023). Longitudinal Reading Measures and Genome Imputation in the National Child Development Study: Prospects for Future Reading Research. Twin Research and Human Genetics, 1-11](https://www.cambridge.org/core/journals/twin-research-and-human-genetics/article/longitudinal-reading-measures-and-genome-imputation-in-the-national-child-development-study-prospects-for-future-reading-research/FAD4EFD7CE42759BAB7A5491935B18FC).
 
+The imputed data were QC'd and combined by CLS. QC and imputation of the Illumina Human 660-Quad were completed by CLS. 
 
 ## Genotyping arrays
 

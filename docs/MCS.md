@@ -32,7 +32,7 @@ Prior to imputation SNPs with high levels of missing data (>3%), Hardy-Weinberg 
 | Mother [M]      | 7,781 |
 | Father [F]      | 4,635   | 
 | Child/ cohort member [C] | 7,841  |
-|trios | 3,111  | 
+|Trios | 3,111  | 
 
 ## Genetic data (non-QCd)
 

@@ -25,6 +25,15 @@ We used KING to create a list of parent and family IDs to update, excluding dupl
 
 Prior to imputation SNPs with high levels of missing data (>3%), Hardy-Weinberg equilibrium P < 1e-6 (based on a subset of unrelated, European samples) or minor allele frequency <1% were excluded. The genetic data were then recoded as vcf files before uploading to the TOPMed Imputation Server which uses Eagle2 to phase haplotypes, and Minimac4 (https://genome.sph.umich.edu/wiki/Minimac4) with the TOPMed reference panel. Imputed genotypes were then filtered with PLINK2.0alpha, excluding SNPs with an R2 INFO score < 0.8 and recoded as binary PLINK format. Proceeding with PLINK1.9, samples with >2% missing values, and SNPs with >2 alleles, >3% missing values, or a minor allele frequency of <1% were excluded. The duplicate samples were removed, retatining those which had the higher genotying rate (83 individuals excluded). We identified European samples using the [GenoPred pipeline](https://github.com/opain/GenoPred/tree/master/Scripts/Ancestry_identifier) which involves (i) merging the MCS genotypes with data from 1000 genomes Phase 3, (ii) linkage disequilibrium pruning the overlapping single nucleotide polymorphisms (SNPs) such that no pair of SNPs within 1000 bp had r2 > 0.20 and (iii) using an elastic net model to establish which of the super populations the samples fall into (Africans [AFR], Admixed Americans [AMR], East Asians [EAS], Europeans [EUR] and South Asians [SAS]). We have not excluded non-European samples but have included a column in the basic demographics file which indicates this, which researchers can use to limit their samples to Europeans (N=17,460). The final dataset consists of 20,257 samples and 8,720,874  genetic varaints (genome build: hg38). The data are provided in plink binary format.
 
+### Number of mother/ fathers/ children after QC:
+
+| Category       | Count   |
+| :----          |    :----   |   
+| Mother [M]      | 7,781 |
+| Father [F]      | 4,635   | 
+| Child/ cohort member [C] | 7,841  |
+|trios | 3,111  | 
+
 ## Genetic data (non-QCd)
 
 These data have not been QCd, however where sample swaps were identified these have been rectified in this sample. The final dataset consists of 21,169 samples and 618,540  genetic varaints (genome build: hg19/GRCh37). The data are provided in plink binary format.

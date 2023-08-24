@@ -16,8 +16,6 @@ The 1958 National Child Development Study (NCDS) is following the lives of an in
 | DNA Methylation | Illumina EPIC  |     1,377 (1,169 individuals)     |        ~800,000 DNA methylation sites        |
 | Exome |  Illumina HiSeq 2500 |    1,000       |          -      |
 
-
-
 ## Genetic QC
 
 Genotyping for 13,738 samples (6,431 unique individuals) was performed across seven different genotyping arrays (see [Genotyping arrays](https://github.com/CLS-Genetics/CLS-Genetics.github.io/blob/main/docs/NCDS.md#genotyping-arrays)). Quality control was completed using PLINK1.9, PLINK2.0, R v3.3.2 and RStudio v4.1.2. Each dataset was updated to GRCh37 build for consistency, using up-to-date strand files and a series of commands collated in the script Update Build (Robertson, 2012) or using the LiftOver software tool. For each chip individuals were excluded if they had (i) they had > 2% missing data (ii) their genotype predicted sex using X chromosome homozygosity was discordant with their reported sex (excluding females with an F value > 0.2 and males with an F value < 0.8) (iii) they had excess heterozygosity [>3 standard deviation (SD) from the mean] and (iv) they were related to another individual in the sample (--genome threshold 0.1875), removing samples with the most missing data. Prior to imputation SNPs with high levels of missing data (>3%), Hardy-Weinberg equilibrium P < 1x10-6 or minor allele frequency <1% were excluded. The genetic data were then recoded as vcf files before uploading to the Michigan Imputation Server which uses Eagle2 to phase haplotypes, and Minimac4 (https://genome.sph.umich.edu/wiki/Minimac4) with the HRC r1.1 reference panel.
@@ -31,7 +29,7 @@ Further QC was conducted on the combined dataset where individuals were excluded
 
 The imputed data were QC'd and combined by CLS. QC and imputation of the Illumina Human 660-Quad was completed by CLS. 
 
-## Genotyping arrays
+## Genotyping arrays used in the QC'd data set 
 
 Here is information on the individual genotyping chips used in the combined dataset. Breakdown of number of participants sampled on each array in the NCDS after removal of exclusions and duplications, and number of SNPs sequenced in each dataset [(Bridges et al., 2023)](https://www.cambridge.org/core/journals/twin-research-and-human-genetics/article/longitudinal-reading-measures-and-genome-imputation-in-the-national-child-development-study-prospects-for-future-reading-research/FAD4EFD7CE42759BAB7A5491935B18FC).
 
@@ -45,5 +43,32 @@ Here is information on the individual genotyping chips used in the combined data
 | Genetic         |Affymetrix 500k  |1477      |      490032             | 
 | Genetic         |Affymetrix v6 | 2979         |    934967               |
 
+# Other genetic data availability
 
+## All genotyping arrays (none-QCd)
+
+If you would like to use the none-QCd data you can apply for the data from the separate genotyping chips. It is worth noting that these have been generated on different genotyping platforms, have multiple genome builds and different samples were 
+
+| Data type       | Array       |Number samples | 
+| :---            |    :---   |    :---      |    :---  |  
+| Genetic         | Illumina 1.2M  | 2908        |             |
+| Genetic         | Illumina 15k Custom Chip   |         |                |
+| Genetic         | Illumina Human 660-Quad   |         |               |
+| Genetic         | Infinium HumanHap 550K v1.1   |         |            | 
+| Genetic         |Infinium HumanHap 550K v3   |        |                  |
+| Genetic         |Affymetrix 500k  |1477      |                | 
+| Genetic         |Affymetrix v6 | 2979         |                |
+
+## Exome sequencing data 
+
+
+| Data type       | Array       |Number samples | Data format |
+| :---            |    :---   |    :---      |    :---  |  
+| Exome sequencing    | Illumina HiSeq 2500 | 1000       |     FastQ             |
+
+## DNA methylation data 
+
+| Data type       | Array       |Number samples | Data format |
+| :---            |    :---   |    :---      |    :---  |  
+| DNA methylation     | Illumina EPIC array | >1000 (2 data points, age 45 and age 55)  |     .rdat file             |
 

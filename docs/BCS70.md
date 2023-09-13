@@ -13,7 +13,7 @@ The 1970 British Cohort Study (BCS70) is following the lives of around 17,000 pe
 | Data type       | Array/ Imputation panel       |Number samples   | Coverage    |
 | :----           |    :----  |    :----    |   :----   |
 | Genetic         | GSA Array   | 5,833             | 654,027 Genetic variants  |
-| Imputed       | TOPMed  | 5,598             | 8,604,230 Genetic variants  |
+| Imputed       | TOPMed  | 5,598             | 8,625,760  Genetic variants  |
 | DNA methylation | EPIC array  | 255             | ~800,000 DNA methylation sites |
 
 ## Genotyping QC

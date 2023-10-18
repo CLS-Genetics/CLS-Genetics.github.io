@@ -70,5 +70,5 @@ If you would like to use the none-QCd data you can apply for the data from the s
 
 | Data type       | Array       |Number samples | Data format |
 | :---            |    :---   |    :---      |    :---  |  
-| DNA methylation     | Illumina EPIC array | >1000 (2 data points, age 45 and age 55)  |     .rdat file             |
+| DNA methylation     | Illumina EPIC array | >1000 (2 data points, age 45 and age 62)  |     .rdat file             |
 

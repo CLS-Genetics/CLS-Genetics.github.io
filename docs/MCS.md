@@ -36,6 +36,6 @@ Prior to imputation SNPs with high levels of missing data (>3%), Hardy-Weinberg 
 
 ## Genetic data (non-QCd)
 
-These data have not been QCd, however where sample swaps were identified these have been rectified in this sample. The final dataset consists of 21,169 samples and 618,540  genetic varaints (genome build: hg19/GRCh37). The data are provided in plink binary format.
+These data have not been QCd, however where sample swaps were identified these have been rectified in this sample. The final dataset consists of 21,169 samples and 618,540  genetic varaints (genome build: hg19/GRCh37). The data are provided in plink binary format unless requested otherwise. 
 
 

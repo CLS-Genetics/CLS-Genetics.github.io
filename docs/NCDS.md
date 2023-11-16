@@ -47,7 +47,7 @@ Here is information on the individual genotyping chips used in the combined data
 
 ## All genotyping arrays (none-QCd)
 
-If you would like to use the none-QCd data you can apply for the data from the separate genotyping chips. It is worth noting that these have been generated on different genotyping platforms, have multiple genome builds and different samples were 
+If you would like to use the none-QCd data you can apply for the data from the separate genotyping chips. It is worth noting that these have been generated on different genotyping platforms, have multiple genome builds and some indiviuals have multiple samples.
 
 | Data type       | Array       |Number samples | 
 | :---            |    :---   |    :---      |    :---  |  

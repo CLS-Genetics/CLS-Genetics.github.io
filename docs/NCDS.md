@@ -8,12 +8,36 @@ nav_order: 3
 
 The 1958 National Child Development Study (NCDS) is following the lives of an initial 17,415 people born in England, Scotland and Wales in a single week of 1958. It started in 1958 at birth, as the Perinatal Mortality Survey.
 
+< Data availability subsection>
+
+<summary>Data availability subsection</summary>
+
+###  Data availability 
+
+test
+| Data type       | Array       |Number samples | Coverage |
+| :----            |    :----   |    :----     | :----    |  
+| Genetic         | Combined  | 6,312 individuals       |     6,663,631 genetic variants             |
+
+```ruby
+test2
+| Data type       | Array       |Number samples | Coverage |
+| :----            |    :----   |    :----     | :----    |  
+| Genetic         | Combined  | 6,312 individuals       |     6,663,631 genetic variants             |
+| DNA Methylation (batch1) | Illumina EPIC  |    541   |        ~800,000 DNA methylation sites        |
+| DNA Methylation (batch2) | Illumina EPIC  |     1,377 (1,169 individuals)     |        ~800,000 DNA methylation sites        |
+| Exome |  Illumina HiSeq 2500 |    1,000       |          -      |
+```
+
+</details>
+
 ## Data availability 
 
 | Data type       | Array       |Number samples | Coverage |
 | :----            |    :----   |    :----     | :----    |  
 | Genetic         | Combined  | 6,312 individuals       |     6,663,631 genetic variants             |
-| DNA Methylation | Illumina EPIC  |     1,377 (1,169 individuals)     |        ~800,000 DNA methylation sites        |
+| DNA Methylation (batch1) | Illumina EPIC  |    541   |        ~800,000 DNA methylation sites        |
+| DNA Methylation (batch2) | Illumina EPIC  |     1,377 (1,169 individuals)     |        ~800,000 DNA methylation sites        |
 | Exome |  Illumina HiSeq 2500 |    1,000       |          -      |
 
 ## Genetic QC

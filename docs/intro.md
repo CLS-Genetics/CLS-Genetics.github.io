@@ -23,5 +23,5 @@ We are happy to contribute to GWAS or other consortia, please [contact us](mailt
 Please note that there are multiple versions of the genomic data available to researchers. There are two main types of genomic data available to researchers at present: genotype array data and genotype array data imputed to sequence level density. Imputation has been performed several times as new sequenced reference panels become available. We are currently working on imputing all of the CLS genetic data to TOPMed, the most up to date reference panel (<https://topmed.nhlbi.nih.gov/>).  
 
 ## Updates:
-- Forthcoming: QC'd data in each cohort and polygenic scores (see link below)
+- Forthcoming: polygenic scores for multiple health and social traits (see link below)
 

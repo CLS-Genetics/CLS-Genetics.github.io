@@ -10,7 +10,7 @@ nav_order: 6
 
 We aim to generate and make polygenic risk scores (PRS) available for CLS cohorts using a standardised pipeline which is transparent, efficient, and updatable. Our approach to sharing these data seeks to balance the ethical need to make data available to enable research with the ethical need to avoid potential risks.
 
-This will be for multiple health and social traits.
+This will be for multiple health and social traits, and made available on UKDS via special license; likely by end of 2024.
 
 
 ## Data availability

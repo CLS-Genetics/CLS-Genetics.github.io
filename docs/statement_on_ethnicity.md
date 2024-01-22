@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contact us
+title: Statement on Ancestry
 nav_order: 8
 ---
 

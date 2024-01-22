@@ -50,18 +50,7 @@ Here is information on the individual genotyping chips used in the combined data
 
 If you would like to use the none-QCd data you can apply for the data from the separate genotyping chips. It is worth noting that these have been generated on different genotyping platforms, have multiple genome builds and some indiviuals have multiple samples.
 
-| Data type       | Array       |Number samples | 
-| :---            |    :---   |    :---      |    :---  |  
-| Genetic         | Illumina 1.2M  | 2908        |             |
-| Genetic         | Illumina 15k Custom Chip   |         |                |
-| Genetic         | Illumina Human 660-Quad   |         |               |
-| Genetic         | Infinium HumanHap 550K v1.1   |         |            | 
-| Genetic         |Infinium HumanHap 550K v3   |        |                  |
-| Genetic         |Affymetrix 500k  |1477      |                | 
-| Genetic         |Affymetrix v6 | 2979         |                |
-
-## Exome sequencing data 
-
+## Exome sequencing data
 
 | Data type       | Array       |Number samples | Data format |
 | :---            |    :---   |    :---      |    :---  |  

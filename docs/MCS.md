@@ -45,7 +45,7 @@ The WES data were generated and QCd by Sanger. 14,791 individuals from MCS, incl
 <details>
   <summary> <b>WES QC</b>  </summary>
   
-### Sample QC
+<b>Sample QC</b> 
 
 For sample QC the following steps were taken: 
 1) Data were filtered to include only biallelic SNVs 

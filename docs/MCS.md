@@ -43,7 +43,7 @@ These data have not been QCd, however where sample swaps were identified these h
 The WES data were generated and QCd by Sanger. 14,791 individuals from MCS, including 7,807 children and 6,975 of their parents, were exome-sequenced using TWIST capture baits (Twist Custom Panel: Core exome plus Broad panel; Twist Design ID: NGSTECustom_0001418) and Illumina NovaSeq S4 100PE, to an average depth of ~68X. We removed samples with VerifyBamID score > 0.05 due to having possible contamination. BWA-MEM was used to map the reads to GRCh38 with BWA-MEM, then SNV and indel calling was conducted with GATK HaplotypeCaller, GenomicsDBImport and GenotypeGVCFs (GATK version 4.2.4.0), following GATK best practices. Hail v0.2.105 was used to conduct sample, variant and genotype QC, as described below.
  
 <details>
-  <summary> ## WES QC </summary>
+  <summary> <b>WES QC</b>  </summary>
   
 ### Sample QC
 

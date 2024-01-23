@@ -38,4 +38,30 @@ Prior to imputation SNPs with high levels of missing data (>3%), Hardy-Weinberg 
 
 These data have not been QCd, however where sample swaps were identified these have been rectified in this sample. The final dataset consists of 21,169 samples and 618,540  genetic varaints (genome build: hg19/GRCh37). The data are provided in plink binary format unless requested otherwise. 
 
+## Whole exome sequencing (WES) data
+
+The WES data were generated and QCd by Sanger. 14,791 individuals from MCS, including 7,807 children and 6,975 of their parents, were exome-sequenced using TWIST capture baits (Twist Custom Panel: Core exome plus Broad panel; Twist Design ID: NGSTECustom_0001418) and Illumina NovaSeq S4 100PE, to an average depth of ~68X. We removed samples with VerifyBamID score > 0.05 due to having possible contamination. BWA-MEM was used to map the reads to GRCh38 with BWA-MEM, then SNV and indel calling was conducted with GATK HaplotypeCaller, GenomicsDBImport and GenotypeGVCFs (GATK version 4.2.4.0), following GATK best practices. Hail v0.2.105 was used to conduct sample, variant and genotype QC, as described below.
+ 
+<details>
+  <summary>WES QC</summary>
+  
+###Sample QC
+For sample QC the following steps were taken: 
+1) Data were filtered to include only biallelic SNVs 
+2) Variants were removed with an internal allele frequency of <= 0.001 and variants with a call rate of <= 0.99, which reduced the number of variants from 4,920,291 to 386,148
+3) MCS data were merged with 1,000 Genomes phase 3, retaining variants present in both. Variants were removed if they had a low call rate (< 0.99), low allele frequency (< 0.05) or low Hardy-Weinberg equilibrium p-value (< 1e-5), variants in long range linkage disequilibrium regions and palindromic SNVs. 
+4) PCA was conducted using Hail’s hwe_normalized_pca function, followed by gnomad’s assign_population_pcs function on the first ten principal components to predict which superpopulation (European, South Asian, East Asian, African, American, or other) each MCS sample was most similar to. 12,851 MCS samples were assigned as being most similar to the European samples from 1000 Genomes.
+5) The sample_qc function was run in Hail and the output was stratified by superpopulation. 
+6) Calls were removed with DP (depth) < 20, GQ (genotype quality) < 20 or VAF (variant allele fraction) < 0.25, and then calculated the following metrics per sample: number of SNVs, Transition/Transversion ratio, het/hom ratio, heterozygosity rate, number of transitions, number of transversions, number of insertions, number of deletions, and insertion/deletion ratio. 302 samples were excluded who fell outside of the median +/-4 median absolute deviations compared to samples from the same superpopulation for at least one metric.
+  
+###Variant and genotype QC
+For variant QC, a random forest model trained on various metrics  was used to distinguish likely true positive from likely false positive variants. Variants in the following high-quality datasets were identified in our data and treated as true positive variants:
+●    High confidence sites discovered in 1000 Genomes
+●    SNVs found in 1000 Genomes that are present on the Omni 2.5 genotyping array 
+●    Indels present in the Mills and Devine data 13
+●    SNVs and indels from HapMap3
+As false positive variants, we took variants failing this set of hard filters: QD < 2 or FS > 60 or MQ < 30.
+
+</details>
+
 

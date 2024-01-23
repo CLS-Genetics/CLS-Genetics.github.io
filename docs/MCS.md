@@ -47,12 +47,12 @@ The WES data were generated and QCd by Sanger. 14,791 individuals from MCS, incl
   
 <b>Sample QC</b> 
 
-For sample QC the following steps were taken: 
-1) Data were filtered to include only biallelic SNVs 
-2) Variants were removed with an internal allele frequency of <= 0.001 and variants with a call rate of <= 0.99, which reduced the number of variants from 4,920,291 to 386,148
-3) MCS data were merged with 1,000 Genomes phase 3, retaining variants present in both. Variants were removed if they had a low call rate (< 0.99), low allele frequency (< 0.05) or low Hardy-Weinberg equilibrium p-value (< 1e-5), variants in long range linkage disequilibrium regions and palindromic SNVs. 
-4) PCA was conducted using Hail’s hwe_normalized_pca function, followed by gnomad’s assign_population_pcs function on the first ten principal components to predict which superpopulation (European, South Asian, East Asian, African, American, or other) each MCS sample was most similar to. 12,851 MCS samples were assigned as being most similar to the European samples from 1000 Genomes.
-5) The sample_qc function was run in Hail and the output was stratified by superpopulation. 
+For sample QC the following steps were taken: \
+1) Data were filtered to include only biallelic SNVs \
+2) Variants were removed with an internal allele frequency of <= 0.001 and variants with a call rate of <= 0.99, which reduced the number of variants from 4,920,291 to 386,148 \
+3) MCS data were merged with 1,000 Genomes phase 3, retaining variants present in both. Variants were removed if they had a low call rate (< 0.99), low allele frequency (< 0.05) or low Hardy-Weinberg equilibrium p-value (< 1e-5), variants in long range linkage disequilibrium regions and palindromic SNVs. \
+4) PCA was conducted using Hail’s hwe_normalized_pca function, followed by gnomad’s assign_population_pcs function on the first ten principal components to predict which superpopulation (European, South Asian, East Asian, African, American, or other) each MCS sample was most similar to. 12,851 MCS samples were assigned as being most similar to the European samples from 1000 Genomes. \
+5) The sample_qc function was run in Hail and the output was stratified by superpopulation.  \
 6) Calls were removed with DP (depth) < 20, GQ (genotype quality) < 20 or VAF (variant allele fraction) < 0.25, and then calculated the following metrics per sample: number of SNVs, Transition/Transversion ratio, het/hom ratio, heterozygosity rate, number of transitions, number of transversions, number of insertions, number of deletions, and insertion/deletion ratio. 302 samples were excluded who fell outside of the median +/-4 median absolute deviations compared to samples from the same superpopulation for at least one metric.
   
 

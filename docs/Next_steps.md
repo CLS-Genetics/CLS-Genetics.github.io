@@ -10,4 +10,4 @@ Next Steps, previously known as the Longitudinal Study of Young People in Englan
 
 ## Data availability
 
-The samples for Next Steps are currently being collected. We hope to generate genetic data for this cohort in 2024.
+The samples for Next Steps have been collected. We will be generating genetic data for this cohort in 2024.

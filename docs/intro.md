@@ -25,7 +25,7 @@ Please note that there are multiple versions of the genomic data available to re
 ## Updates:
 Forthcoming: 
 
--Polygenic scores for multiple health and social traits (see [link](https://cls-genetics.github.io/docs/PRS.html))
+- Polygenic scores for multiple health and social traits (see [link](https://cls-genetics.github.io/docs/PRS.html))
 
--Documentation of epigenetic data in NCDS and BCS70; inclusion of derived variables (epigenetic clocks) on UKDS via special license expected in late 2024
+- Documentation of epigenetic data in NCDS and BCS70; inclusion of derived variables (epigenetic clocks) on UKDS via special license expected in late 2024
 

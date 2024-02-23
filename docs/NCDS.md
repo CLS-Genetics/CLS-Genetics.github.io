@@ -46,8 +46,6 @@ Further QC was conducted on the combined dataset where individuals were excluded
 
 The imputed data were QC'd and combined by CLS. QC and imputation of the Illumina Human 660-Quad was completed by CLS. 
 
-</details>
-
 ## Genotyping arrays used in the QC'd data set 
 
 Here is information on the individual genotyping chips used in the combined dataset. Breakdown of number of participants sampled on each array in the NCDS after removal of exclusions and duplications, and number of SNPs sequenced in each dataset [(Bridges et al., 2023)](https://www.cambridge.org/core/journals/twin-research-and-human-genetics/article/longitudinal-reading-measures-and-genome-imputation-in-the-national-child-development-study-prospects-for-future-reading-research/FAD4EFD7CE42759BAB7A5491935B18FC).
@@ -61,6 +59,8 @@ Here is information on the individual genotyping chips used in the combined data
 | Genetic         |Infinium HumanHap 550K v3   | 2592         |       561303            |
 | Genetic         |Affymetrix 500k  |1477      |      490032             | 
 | Genetic         |Affymetrix v6 | 2979         |    934967               |
+
+</details>
 
 # Other genetic data availability
 

@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Use of CLS cohort data in GWAS
-nav_order: 12
+title: GWAS consortia
+nav_order: 8
 ---
 
-# **GWAS**
+# **Use of CLS cohort data in GWAS**
 
 The rich phenotyping of the CLS cohorts, longitudinal repeat measure data, and their high participation rates make them  highly suitable for both discovery and holdout/prediction samples in GWAS. 
 

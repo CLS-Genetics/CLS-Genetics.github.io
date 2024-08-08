@@ -4,10 +4,10 @@ title: Proteomics
 nav_order: 8
 ---
 
-# **Proteomics* 
+# **Proteomics** 
 Proteomics involves quantifying the proteins present in a sample, and this information can be used to identify important biological pathways, biomarkers for diseases, and potential drug targets.
 
-Proteomics data will soon be avaible for the NCDS cohort (N=8005)
+Proteomics is now available for the NCDS cohort (N=8005). 
 
 ## Panels 
 
@@ -19,5 +19,6 @@ The results of the analyses are provided in the data in Olink’s Normalized Pro
 
 ## Data availability
 
-Proteomics data are soon to be available for the NCDS cohort. They will be availble via the UKDS.
+Availble via [UK Data Service Special License](https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=9254&utm_campaign=data_update2_202407&utm_medium=email&utm_source=newsletter&dm_t=0,0,0,0,0#!/details).
+
 

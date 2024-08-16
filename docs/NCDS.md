@@ -14,8 +14,8 @@ The 1958 National Child Development Study (NCDS) is following the lives of an in
 | :----            |    :----   |    :----     | :----    |  
 | Genetic (imputed TOPMed)        | Combined  | 6,396 individuals       |    7,545,708 genetic variants             |
 | Genetic  (imputed HRC)       | Combined  | 6,312 individuals       |     6,663,631 genetic variants             |
-| DNA Methylation (batch1) | Illumina EPIC  |    541   |        ~800,000 DNA methylation sites        |
-| DNA Methylation (batch2) | Illumina EPIC  |     1,377 (1,169 individuals)     |        ~800,000 DNA methylation sites        |
+| DNA Methylation (batch1) | Illumina EPIC  |    529   |        764,572 DNA methylation sites        |
+| DNA Methylation (batch2) | Illumina EPIC  |     1,298 (1,119 individuals)     |        804,070  DNA methylation sites        |
 | Exome |  Illumina HiSeq 2500 |    1,000       |          -      |
 
 ## Genetic QC
@@ -70,14 +70,17 @@ If you would like to use the none-QCd data you can apply for the data from the s
 
 | Data type       | Array       |Number samples | Data format |
 | :---            |    :---   |    :---      |    :---  |  
-| DNA methylation (batch1)     | Illumina EPIC array | >541  |     .rdat file             |
-| DNA methylation (batch2)    | Illumina EPIC array | 1,377 (1,169 individuals)    |     .rdat file             |
+| DNA methylation (batch1)     | Illumina EPIC array | 529  |     .rdat file             |
+| DNA methylation (batch2)    | Illumina EPIC array | 1,298 (1,119 individuals)    |     .rdat file             |
 
 ### DNA methylation data preprocessing 
 
 DNA methylation data preprocessing was conducted at Bristol for batch 1 and at CLS for batch 2. Similar QC measures have been applied to both. 
 
-Unless otherwise reported, all statistical analysis was conducted in the R statistical environment (version 4.3.0 https://www.r-project.org/). Raw data for all datasets were used, prior to any quality control or normalization, and processed using the wateRmelon (Pidsley et al., 2013) package. Our stringent DNAm quality control pipeline included the following steps: i) excluding poorly performing samples based on methylated and unmethylated signal intensities; (ii) removing samples with a bisulphite conversion rate <80%; (iii) confirming reported sex through multidimensional scaling of X and Y chromosome sites; (iv) utilizing single nucleotide polymorphism (SNP) probes to verify genetic identity of matched samples; (v) employing the pfilter() function to exclude samples with >1% of probes with a detection P-value > 0.05; (vi) performing principal component analysis to identify and exclude outliers; and (vii) removing cross-hybridizing and SNP probes (Chen et al., 2013). Subsequent normalization of DNA methylation data was conducted using the nasen() function in wateRmelon (Pidsley et al., 2013). Any samples which have withdreawn consent have additioanlly been removed. After QC, batch 1 consisted
+All data were QCd within R. Raw data for all datasets were used, prior to any quality control or normalization, and processed using the wateRmelon (Pidsley et al., 2013) package. Our stringent DNAm quality control pipeline included the following steps: i) excluding poorly performing samples based on methylated and unmethylated signal intensities; (ii) removing samples with a bisulphite conversion rate <80%; (iii) confirming reported sex through multidimensional scaling of X and Y chromosome sites; (iv) utilizing single nucleotide polymorphism (SNP) probes to verify genetic identity of matched samples; (v) employing the pfilter() function to exclude samples with >1% of probes with a detection P-value > 0.05; (vi) performing principal component analysis to identify and exclude outliers; and (vii) removing cross-hybridizing and SNP probes (Chen et al., 2013). Subsequent normalization of DNA methylation data was conducted using the nasen() function in wateRmelon (Pidsley et al., 2013). Any samples which have withdrawn consent or did not map to an ID have additioanlly been removed. 
+
+After QC, batch 1 consisted 529 individuals and 764,572 DNA methylation probes. Batch 2 consisted of 1298 samples (1119 individuals) and 804,070 DNA methylation probes. 
+
 
 
 ## Exome sequencing data

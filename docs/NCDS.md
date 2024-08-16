@@ -66,16 +66,24 @@ Here is information on the individual genotyping chips used in the combined data
 
 If you would like to use the none-QCd data you can apply for the data from the separate genotyping chips. It is worth noting that these have been generated on different genotyping platforms, have multiple genome builds and some indiviuals have multiple samples.
 
-## Exome sequencing data
-
-| Data type       | Array       |Number samples | Data format |
-| :---            |    :---   |    :---      |    :---  |  
-| Exome sequencing    | Illumina HiSeq 2500 | 1000       |     FastQ             |
-
 ## DNA methylation data 
 
 | Data type       | Array       |Number samples | Data format |
 | :---            |    :---   |    :---      |    :---  |  
 | DNA methylation (batch1)     | Illumina EPIC array | >541  |     .rdat file             |
 | DNA methylation (batch2)    | Illumina EPIC array | 1,377 (1,169 individuals)    |     .rdat file             |
+
+### DNA methylation data preprocessing 
+
+DNA methylation data preprocessing was conducted at Bristol for batch 1 and at CLS for batch 2. Similar QC measures have been applied to both. 
+
+Unless otherwise reported, all statistical analysis was conducted in the R statistical environment (version 4.3.0 https://www.r-project.org/). Raw data for all datasets were used, prior to any quality control or normalization, and processed using the wateRmelon (Pidsley et al., 2013) package. Our stringent DNAm quality control pipeline included the following steps: i) excluding poorly performing samples based on methylated and unmethylated signal intensities; (ii) removing samples with a bisulphite conversion rate <80%; (iii) confirming reported sex through multidimensional scaling of X and Y chromosome sites; (iv) utilizing single nucleotide polymorphism (SNP) probes to verify genetic identity of matched samples; (v) employing the pfilter() function to exclude samples with >1% of probes with a detection P-value > 0.05; (vi) performing principal component analysis to identify and exclude outliers; and (vii) removing cross-hybridizing and SNP probes (Chen et al., 2013). Subsequent normalization of DNA methylation data was conducted using the nasen() function in wateRmelon (Pidsley et al., 2013). Any samples which have withdreawn consent have additioanlly been removed. After QC, batch 1 consisted
+
+
+## Exome sequencing data
+
+| Data type       | Array       |Number samples | Data format |
+| :---            |    :---   |    :---      |    :---  |  
+| Exome sequencing    | Illumina HiSeq 2500 | 1000       |     FastQ             |
+
 

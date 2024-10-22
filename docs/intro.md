@@ -14,6 +14,8 @@ The genetic data is managed by CLS at UCL (<https://cls.ucl.ac.uk/>).
 
 To access genetic data combined with survey data, please see <a href="https://cls.ucl.ac.uk/data-access-training/data-access/">link</a> (i.e., complete the application form which is then reviewed approximately monthly in data access committee meetings; the same process applies to internal and external applicants).
 
+A list of approved applications is held here: <a href="https://cls.ucl.ac.uk/wp-content/uploads/2017/02/dac_projects_register.pdf">link</a> 
+
 ## Contribute to GWAS or other consortia
 
 We are happy to contribute to GWAS or other consortia, please [contact us](mailto:g.shireby@ucl.ac.uk).

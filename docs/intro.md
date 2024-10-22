@@ -18,7 +18,7 @@ A list of approved applications is held here: <a href="https://cls.ucl.ac.uk/wp-
 
 ## Contribute to GWAS or other consortia
 
-We are happy to contribute to GWAS or other consortia, please [contact us](mailto:g.shireby@ucl.ac.uk).
+We are happy to contribute to GWAS or other consortia, please [contact us](mailto:clsdata@ucl.ac.uk).
 
 ## Genetic data
 

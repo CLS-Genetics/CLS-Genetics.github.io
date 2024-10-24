@@ -70,8 +70,10 @@ If you would like to use the none-QCd data you can apply for the data from the s
 
 | Data type       | Array       |Number samples | Data format |
 | :---            |    :---   |    :---      |    :---  |  
-| DNA methylation (batch1)     | Illumina EPIC array | 529  |     .rdat file             |
-| DNA methylation (batch2)    | Illumina EPIC array | 1,298 (1,119 individuals)    |     .rdat file             |
+| DNA methylation (batch1 - 44y)     | Illumina EPIC array | 529  |     .rdat file             |
+| DNA methylation (batch2) - 44y & 62y*)   | Illumina EPIC array | 1,298 (1,119 individuals)    |     .rdat file             |
+
+*N=179 measured at both 44 + 62y 
 
 ### DNA methylation data preprocessing 
 

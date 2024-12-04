@@ -8,7 +8,10 @@ nav_order: 1
 
 Here at CLS we have genomic data for three cohorts: the 1958 Childhood Development Study (NCDS), the 1970 British Cohort Study (BCS70) and the Millennium Cohort Study (MCS). This site provides documentation on the genetic QC for these datasets and what is available to researchers.
 
-The genetic data is managed by CLS at UCL (<https://cls.ucl.ac.uk/>). 
+The genetic data is managed by <a href="https://cls.ucl.ac.uk">CLS</a> at UCL.
+
+See our resource profile <a href="https://www.medrxiv.org/content/10.1101/2024.11.06.24316761v1">here</a>.
+
 
 ## Data Access
 

@@ -17,6 +17,7 @@ We are aiming for a full release of the PGS in 2025, though this is dependent on
 In the interim, we have a selection of PGS that can be obtained via application to the CLS DAC (see Introduction page). 
 
 
+
 ## Current PRS available via the DAC 
 
 | Domain | Trait | Reference |
@@ -25,6 +26,7 @@ In the interim, we have a selection of PGS that can be obtained via application 
 | Mental health and cognition | Cognition | Lee et al. 2018 |
 | Mental health and cognition | Cognition | Savage et al. 2018 |
 | Mental health and cognition | Externalising problems | Karlsson Linnér et al. 2021 |
+
 
 
 ## Forthcoming full release PRS 

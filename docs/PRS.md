@@ -14,7 +14,7 @@ PRS will be derived for multiple health and social traits (below), and made avai
 
 We are aiming for a full release of the PGS in 2025, though this is dependent on capacity (we are recruiting for a replacement genetics data manager);. We will email genetics data applicants when the data are available. For further updates please email clsdata@ucl.ac.uk.
 
-In the interim, we have a selection of PGS that can be obtained via application to the CLS DAC (see Introduction page). 
+In the interim, we have a selection of PGS that can be obtained via application to the CLS DAC (see [Introduction](https://cls-genetics.github.io/docs/PRS.html)). 
 
 
 
@@ -26,10 +26,11 @@ In the interim, we have a selection of PGS that can be obtained via application 
 | Mental health and cognition | Cognition | Lee et al. 2018 |
 | Mental health and cognition | Cognition | Savage et al. 2018 |
 | Mental health and cognition | Externalising problems | Karlsson Linnér et al. 2021 |
+| Physical health / anthropometrics | Body Mass Index | Yengo et al. 2018 |
 
 
 
-## Forthcoming full release PRS 
+## Forthcoming additional PRS for full release
 
 | Domain | Trait | Reference |
 |--------|-------|-----------|
@@ -41,7 +42,6 @@ In the interim, we have a selection of PGS that can be obtained via application 
 | Physical health / anthropometrics | Birth weight | Warrington et al. 2019 |
 | Physical health / anthropometrics | Blood pressure | Keaton et al. 2024 |
 | Physical health / anthropometrics | Body fat percentage | Roshandel et al. 2023 |
-| Physical health / anthropometrics | Body Mass Index | Yengo et al. 2018 |
 | Physical health / anthropometrics | Body Mass Index childhood | Vogelezang et al. 2020 |
 | Physical health / anthropometrics | Coronary artery disease | Aragam et al. 2022 |
 | Physical health / anthropometrics | C-reactive protein measurement | Koskeridis et al. 2022 |

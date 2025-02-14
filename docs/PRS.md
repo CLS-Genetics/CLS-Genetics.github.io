@@ -8,16 +8,26 @@ nav_order: 6
 
 ## Our Aim
 
-We aim to generate and make polygenic risk scores (PRS) available for CLS cohorts using a standardised pipeline which is transparent, efficient, and updatable. Our approach to sharing these data seeks to balance the ethical need to make data available to enable research with the ethical need to avoid potential risks.
+We aim to generate and make polygenic risk scores (PRS) available for all CLS cohorts using a standardised pipeline which is transparent, efficient, and updatable. Our approach to sharing these data seeks to balance the need to make data available to enable research with the ethical need to avoid potential risks.
 
-This will be for multiple health and social traits, and made available on UKDS via special license.
+PRS will be derived for multiple health and social traits (below), and made available on the UKDS via special license agreement.
+
+We are aiming for a full release of the PGS in 2025, though this is dependent on capacity (we are recruiting for a replacement genetics data manager);. We will email genetics data applicants when the data are available. For further updates please email clsdata@ucl.ac.uk.
+
+In the interim, we have a selection of PGS that can be obtained via application to the CLS DAC (see Introduction page). 
 
 
-## Data availability
+## Current PRS available via the DAC 
 
-Forthcoming / in preparation. We are aiming for this to be delivered by end of 2024 (capacity depending - we are recruiting for a replacement genetics data manager); we will email genetics data applicants when this is available. For further updates please email clsdata@ucl.ac.uk 
+| Domain | Trait | Reference |
+|--------|-------|-----------|
+| Social outcomes | Education | Okbay et al. 2022 |
+| Mental health and cognition | Cognition | Lee et al. 2018 |
+| Mental health and cognition | Cognition | Savage et al. 2018 |
+| Mental health and cognition | Externalising problems | Karlsson Linnér et al. 2021 |
 
-## PRS traits 
+
+## Forthcoming full release PRS 
 
 | Domain | Trait | Reference |
 |--------|-------|-----------|
@@ -46,7 +56,6 @@ Forthcoming / in preparation. We are aiming for this to be delivered by end of 2
 | Mental health and cognition | Alzheimer's Disease | Bellenguez et al. 2022 |
 | Mental health and cognition | Autism spectrum disorder | Grove et al. 2019 |
 | Mental health and cognition | Bipolar disorder | Mullins et al. 2021 |
-| Mental health and cognition | Cognition | Savage et al. 2018 |
 | Mental health and cognition | Hippocampal volume | Liu et al. 2023 |
 | Mental health and cognition | Major depressive disorder | Howard et al. 2019 |
 | Mental health and cognition | Parkinson's disease | Nalls et al. 2019 |
@@ -56,7 +65,6 @@ Forthcoming / in preparation. We are aiming for this to be delivered by end of 2
 | Health/ health behaviours | Diet | Cole et al. 2020 |
 | Health/ health behaviours | Drinks per week | Liu et al. 2019 |
 | Health/ health behaviours | Smoking | Liu et al. 2019 |
-| Social outcomes | Education | Okbay et al. 2022 |
 | Social outcomes | Household Income | Hill et al. 2019 |
 | Social outcomes | Human Longevity | Pilling et al. 2017 |
 | Social outcomes | Parental Lifespan | Timmers et al. 2019 |
@@ -102,9 +110,13 @@ Howard, D. M., Adams, M. J., Clarke, T.-K., Hafferty, J. D., Gibson, J., Shirali
 
 Ishigaki, K., Sakaue, S., Terao, C., Luo, Y., Sonehara, K., Yamaguchi, K., Amariuta, T., Too, C. L., Laufer, V. A., Scott, I. C., Viatte, S., Takahashi, M., Ohmura, K., Murasawa, A., Hashimoto, M., Ito, H., Hammoudeh, M., Emadi, S. A., Masri, B. K., … Raychaudhuri, S. 2022. Multi-ancestry genome-wide association analyses identify novel genetic mechanisms in rheumatoid arthritis. Nature Genetics, 5411, 1640–1651. https://doi.org/10.1038/s41588-022-01213-w
 
+Karlsson Linnér, R., Mallard, T.T., Barr, P.B. et al. Multivariate analysis of 1.5 million people identifies genetic associations with traits related to self-regulation and addiction. Nat Neurosci 24, 1367–1376 (2021). https://doi.org/10.1038/s41593-021-00908-3
+
 Keaton, J. M., Kamali, Z., Xie, T., Vaez, A., Williams, A., Goleva, S. B., Ani, A., Evangelou, E., Hellwege, J. N., Yengo, L., Young, W. J., Traylor, M., Giri, A., Zheng, Z., Zeng, J., Chasman, D. I., Morris, A. P., Caulfield, M. J., Hwang, S.-J., … Warren, H. R. 2024. Genome-wide analysis in over 1 million individuals of European ancestry yields improved polygenic risk scores for blood pressure traits. Nature Genetics, 565, 778–791. https://doi.org/10.1038/s41588-024-01714-w
 
 Koskeridis, F., Evangelou, E., Said, S., Boyle, J. J., Elliott, P., Dehghan, A., & Tzoulaki, I. 2022. Pleiotropic genetic architecture and novel loci for C-reactive protein levels. Nature Communications, 131, 6939. https://doi.org/10.1038/s41467-022-34688-6
+
+Lee, J.J., Wedow, R., Okbay, A. et al. Gene discovery and polygenic prediction from a genome-wide association study of educational attainment in 1.1 million individuals. Nat Genet 50, 1112–1121 (2018). https://doi.org/10.1038/s41588-018-0147-3
 
 Liu, M., Jiang, Y., Wedow, R., Li, Y., Brazel, D. M., Chen, F., Datta, G., Davila-Velderrain, J., McGuire, D., Tian, C., Zhan, X., 23andMe Research Team, HUNT All-In Psychiatry, Choquet, H., Docherty, A. R., Faul, J. D., Foerster, J. R., Fritsche, L. G., Gabrielsen, M. E., … Vrieze, S. 2019. Association studies of up to 1.2 million individuals yield new insights into the genetic etiology of tobacco and alcohol use. Nature Genetics, 512, 237–244. https://doi.org/10.1038/s41588-018-0307-5
 

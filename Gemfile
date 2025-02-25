@@ -1,5 +1,9 @@
 source 'https://rubygems.org'
 
-gem "jekyll", "~> 4.3" # installed by `gem jekyll`
-gem "just-the-docs", "0.4.2" # pinned to the current release
-gem "github-pages", group: :jekyll_plugins
+gem "jekyll", "~> 4.3"
+gem "just-the-docs", "0.4.2"
+gem "webrick", "~> 1.7"
+
+# Optional plugins
+group :jekyll_plugins do
+  gem "jekyll-seo-tag"

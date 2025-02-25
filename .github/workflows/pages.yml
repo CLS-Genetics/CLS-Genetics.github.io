@@ -25,14 +25,14 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.1'
-          bundler-cache: true  # Ensures dependencies are installed
+          bundler-cache: true
           cache-version: 1
 
       - name: Install Jekyll and Dependencies
         run: |
           gem install bundler
           bundle install
-          gem install jekyll
+          bundle add webrick
 
       - name: Setup Pages
         id: pages
@@ -44,7 +44,7 @@ jobs:
           JEKYLL_ENV: production
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2  # Corrected version
+        uses: actions/upload-pages-artifact@v2
 
   deploy:
     environment:

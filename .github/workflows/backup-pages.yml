@@ -11,6 +11,14 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    # Add this permission block for GitHub Pages deployment
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -29,11 +37,14 @@ jobs:
       - name: Build the site
         run: jekyll build
 
-      - name: Deploy to GitHub Pages
+      - name: Setup Pages
         uses: actions/configure-pages@v4
         
       - name: Upload pages artifact
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./_site
         
       - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v2
+        id: deployment
+        uses: actions/deploy-pages@v4

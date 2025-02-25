@@ -6,7 +6,7 @@ nav_order: 5
 
 # **Next Steps**
 
-Next Steps, previously known as the Longitudinal Study of Young People in England (LSYPE), follows the lives of around 16,000 people in England born in 1989-90. Cohort members were genotyped at age 32-33 (sweep 9). For information on the saliva sampling and an analysis of response rates see [Adali et al 2025](https://discovery.ucl.ac.uk/id/eprint/10205053/)
+Next Steps, previously known as the Longitudinal Study of Young People in England (LSYPE), follows the lives of around 16,000 people in England born in 1989-90. Cohort members were genotyped at age 32-33 (sweep 9). For information on the saliva sampling and an analysis of response rates see [Adali et al 2025](https://discovery.ucl.ac.uk/id/eprint/10205053/).
 
 ## Data availability 
 

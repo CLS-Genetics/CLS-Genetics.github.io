@@ -14,7 +14,7 @@ PRS will be derived for multiple health and social traits (below), and made avai
 
 We are aiming for a full release of the PGS in 2025, though this is dependent on capacity (we are recruiting for a replacement genetics data manager);. We will email genetics data applicants when the data are available. For further updates please email clsdata@ucl.ac.uk.
 
-In the interim, we have a selection of PGS that can be obtained via application to the CLS DAC (see [Introduction](https://cls-genetics.github.io/docs/PRS.html)). These are available for the NCDS, BCS, Next Steps, and MCS (parents and children). 
+In the interim, we have a selection of PGS that can be obtained via application to the CLS DAC (see [Introduction](https://cls-genetics.github.io/docs/PRS.html)). These PGS are available for the NCDS, BCS, Next Steps, and MCS (parents and children). 
 
 
 

@@ -29,8 +29,7 @@ Imputed genotypes were then filtered with PLINK2.0alpha, excluding SNPs with an 
 
 | Data type       | Array       |Number samples | Data format |
 | :---            |    :---   |    :---      |    :---  |  
-| DNA methylation (batch1)     | Illumina EPIC array | 529  |     .rdat file             |
-| DNA methylation (batch2)    | Illumina EPIC array | 1,298 (1,119 individuals)    |     .rdat file             |
+| DNA methylation     | Illumina EPIC array | 239  |     .rdat file             |
 
 ### DNA methylation data preprocessing 
 

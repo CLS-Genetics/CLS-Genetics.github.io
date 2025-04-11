@@ -1,3 +1,6 @@
+# CLS-Genetics GitHub Pages Site
+This repository hosts documentation for CLS Genomics data. It uses the [Just the Docs][just-the-docs] theme with a custom GitHub Actions workflow to deploy on GitHub Pages. You can also clone and run/test it locally in VS Code or another environment.
+
 
 ## Changing the version of the theme and/or Jekyll
 

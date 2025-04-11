@@ -1,29 +1,24 @@
-title: CLS Genomics Data
-description: This site provides all the details about the CLS genomic data 
+title: "CLS Genomics Data"
+description: "This site provides documentation for the CLS genomic data."
 theme: just-the-docs
 
-# For local development
-# theme: just-the-docs
+# If your site is served at https://cls-genetics.github.io/ (no extra repo path), leave baseurl blank:
+url: "https://cls-genetics.github.io"
+baseurl: ""
 
-# For GitHub Pages deployment
-remote_theme: just-the-docs/just-the-docs
-
-url: https://cls-genetics.github.io
-baseurl: ""  # the subpath of your site, e.g. /blog
-
-# Aux links for the upper right navigation
+# Any extra links in the top-right corner, for example:
 aux_links:
-  "CLS Genomics on GitHub":
-    - "https://github.com/cls-genetics"
+  "CLS Genomics on GitHub": "https://github.com/cls-genetics"
 
-# Enable search
+# Enable Just the Docs search bar
 search_enabled: true
 
-# Set a path/url to a favicon that will be displayed by the browser
+# Optionally set color scheme (light or dark)
+color_scheme: light
+
+# Point to a favicon if you have one:
 favicon_ico: "/assets/images/favicon.ico"
 
-# Enable or disable the site search
-search_enabled: true
-
-# Color scheme supports "light" (default) and "dark"
-color_scheme: light
+# Plugins you want. Here jekyll-seo-tag is common:
+plugins:
+  - jekyll-seo-tag

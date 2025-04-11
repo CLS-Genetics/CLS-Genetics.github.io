@@ -6,7 +6,7 @@ theme: just-the-docs
 # theme: just-the-docs
 
 # For GitHub Pages deployment
-# remote_theme: just-the-docs/just-the-docs
+remote_theme: just-the-docs/just-the-docs
 
 url: https://cls-genetics.github.io
 baseurl: ""  # the subpath of your site, e.g. /blog

@@ -32,7 +32,7 @@ jobs:
         run: |
           gem install bundler
           bundle install
-          bundle add webrick
+          
 
       - name: Setup Pages
         id: pages

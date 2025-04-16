@@ -1,24 +1,24 @@
 ---
 layout: default
-title: Polygenic risk scores
+title: Polygenic indexes
 nav_order: 6
 ---
 
-# **Polygenic risk scores** 
+# **Polygenic indexes** 
 
 ## Our Aim
 
-We aim to generate and make polygenic risk scores (PRS) available for all CLS cohorts using a standardised pipeline which is transparent, efficient, and updatable. Our approach to sharing these data seeks to balance the need to make data available to enable research with the ethical need to avoid potential risks.
+We aim to generate and make polygenic indexes (PGI) available for all CLS cohorts using a standardised pipeline which is transparent, efficient, and updatable. Our approach to sharing these data seeks to balance the need to make data available to enable research with the ethical need to avoid potential risks.
 
-PRS will be derived for multiple health and social traits (below), and made available on the UKDS via special license agreement.
+PGI will be derived for multiple health and social traits (below), and made available on the UKDS via special license agreement.
 
-We are aiming for a full release of the PGS in 2025, though this is dependent on internal capacity. We will email genetics data applicants when the data are available. For further updates please email clsdata@ucl.ac.uk.
+We are aiming for a full release of the PGI in 2025, though this is dependent on internal capacity. We will email genetics data applicants when the data are available. For further updates please email clsdata@ucl.ac.uk.
 
-In the interim, we have a selection of PGS that can be obtained via application to the CLS DAC (see [Introduction](https://cls-genetics.github.io/docs/PRS.html)). These PGS are available for the NCDS, BCS, Next Steps, and MCS (parents and children). 
+In the interim, we have a selection of PGI that can be obtained via application to the CLS DAC (see [Introduction](https://cls-genetics.github.io/docs/PRS.html)). These PGI are available for the NCDS, BCS, Next Steps, and MCS (parents and children). 
 
 
 
-## Current PRS available via the DAC (last updated 31/03/2025)
+## Current PGI available via the DAC (last updated 31/03/2025)
 
 | Domain | Trait | Reference |
 |--------|-------|-----------|
@@ -30,7 +30,7 @@ In the interim, we have a selection of PGS that can be obtained via application 
 
 
 
-## Forthcoming additional PRS for full release
+## Forthcoming additional PGI for full release
 
 | Domain | Trait | Reference |
 |--------|-------|-----------|

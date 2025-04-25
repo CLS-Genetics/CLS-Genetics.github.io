@@ -41,7 +41,7 @@ In the interim, we have a selection of PGI that can be obtained via application 
 | Physical health / anthropometrics | Asthma | Han et al. 2020 |
 | Physical health / anthropometrics | Birth weight | Warrington et al. 2019 |
 | Physical health / anthropometrics | Blood pressure | Keaton et al. 2024 |
-| Physical health / anthropometrics | Body fat percentage | Roshandel et al. 2023 |
+| Physical health / anthropometrics | Body fat distribution | Pulit et al. 2018 |
 | Physical health / anthropometrics | Body Mass Index childhood | Vogelezang et al. 2020 |
 | Physical health / anthropometrics | Coronary artery disease | Aragam et al. 2022 |
 | Physical health / anthropometrics | C-reactive protein measurement | Koskeridis et al. 2022 |
@@ -132,7 +132,7 @@ Okbay, A., Wu, Y., Wang, N., Jayashankar, H., Bennett, M., Nehzati, S. M., Sidor
 
 Pilling, L. C., Kuo, C.-L., Sicinski, K., Tamosauskaite, J., Kuchel, G. A., Harries, L. W., Herd, P., Wallace, R., Ferrucci, L., & Melzer, D. 2017. Human longevity: 25 genetic loci associated in 389,166 UK biobank participants. Aging, 912, 2504–2520. https://doi.org/10.18632/aging.101334
 
-Roshandel, D., Lu, T., Paterson, A. D., & Dash, S. 2023. Beyond apples and pears: sex-specific genetics of body fat percentage. Frontiers in Endocrinology, 14, 1274791. https://doi.org/10.3389/fendo.2023.1274791
+Pulit, S. L., Stoneman, C., Morris, A. P., Wood, A. R., Glastonbury, C. A., Tyrrell, J., ... & Lindgren, C. M. (2019). Meta-analysis of genome-wide association studies for body fat distribution in 694 649 individuals of European ancestry. Human molecular genetics, 28(1), 166-174.
 
 Ruth, K. S., Day, F. R., Hussain, J., Martínez-Marchal, A., Aiken, C. E., Azad, A., Thompson, D. J., Knoblochova, L., Abe, H., Tarry-Adkins, J. L., Gonzalez, J. M., Fontanillas, P., Claringbould, A., Bakker, O. B., Sulem, P., Walters, R. G., Terao, C., Turon, S., Horikoshi, M., … et al. 2021. Genetic insights into biological mechanisms governing human ovarian ageing. Nature, 5967872, 393–397. https://doi.org/10.1038/s41586-021-03779-7
 

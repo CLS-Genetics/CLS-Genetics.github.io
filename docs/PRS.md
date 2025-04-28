@@ -59,6 +59,7 @@ In the interim, we have a selection of PGI that can be obtained via application 
 | Mental health and cognition | Autism spectrum disorder | Grove et al. 2019 |
 | Mental health and cognition | Bipolar disorder | Mullins et al. 2021 |
 | Mental health and cognition | Hippocampal volume | Liu et al. 2023 |
+| Mental health and cognition | Depressive symptoms | Baselmans et al. 2019 |
 | Mental health and cognition | Major depressive disorder | Howard et al. 2019 |
 | Mental health and cognition | Parkinson's disease | Nalls et al. 2019 |
 | Mental health and cognition | Schizophrenia | Trubetskoy et al. 2022 |
@@ -79,6 +80,8 @@ In the interim, we have a selection of PGI that can be obtained via application 
 #### References 
 
 Aragam, K. G., Jiang, T., Goel, A., Kanoni, S., Wolford, B. N., Atri, D. S., Weeks, E. M., Wang, M., Hindy, G., Zhou, W., Grace, C., Roselli, C., Marston, N. A., Kamanu, F. K., Surakka, I., Venegas, L. M., Sherliker, P., Koyama, S., Ishigaki, K., … CARDIoGRAMplusC4D Consortium. 2022. Discovery and systematic characterization of risk variants and genes for coronary artery disease in over a million participants. Nature Genetics, 5412, 1803–1815. https://doi.org/10.1038/s41588-022-01233-6
+
+Baselmans, B. M. L., Jansen, R., Ip, H. F., van Dongen, J., Abdellaoui, A., van de Weijer, M. P., Bao, Y., Smart, M., Kumari, M., Willemsen, G., Hottenga, J. J., BIOS consortium, Social Science Genetic Association Consortium, Boomsma, D. I., de Geus, E. J. C., Nivard, M. G., & Bartels, M. (2019). Multivariate genome-wide analyses of the well-being spectrum. Nature genetics, 51(3), 445–451. https://doi.org/10.1038/s41588-018-0320-8
 
 Bellenguez, C., Küçükali, F., Jansen, I. E., Kleineidam, L., Moreno-Grau, S., Amin, N., Naj, A. C., Campos-Martin, R., Grenier-Boley, B., Andrade, V., Holmans, P. A., Boland, A., Damotte, V., van der Lee, S. J., Costa, M. R., Kuulasmaa, T., Yang, Q., de Rojas, I., Bis, J. C., … et al. 2022. New insights into the genetic etiology of Alzheimer’s disease and related dementias. Nature Genetics, 544, 412–436. https://doi.org/10.1038/s41588-022-01024-z
 

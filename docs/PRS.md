@@ -40,12 +40,14 @@ In the interim, we have a selection of PGI that can be obtained via application 
 | Physical health / anthropometrics | Birth weight | Warrington et al. 2019 |
 | Physical health / anthropometrics | Blood pressure | Keaton et al. 2024 |
 | Physical health / anthropometrics | Body fat distribution | Pulit et al. 2018 |
-| Physical health / anthropometrics | Body Mass Index childhood | Vogelezang et al. 2020 |
+| Physical health / anthropometrics | Body Mass Index (childhood) | Vogelezang et al. 2020 |
+| Physical health / anthropometrics | Body Mass Index (adulthood) | Yengo et al. 2018 |
 | Physical health / anthropometrics | Coronary artery disease | Aragam et al. 2022 |
 | Physical health / anthropometrics | C-reactive protein measurement | Koskeridis et al. 2022 |
 | Physical health / anthropometrics | Fasting blood glucose measurement | Downie et al. 2022 |
 | Physical health / anthropometrics | Grip strength measurement | Mullins et al. 2021 |
 | Physical health / anthropometrics | HbA1c measurement | Sinnott-Armstrong et al. 2021 |
+| Physical health / anthropometrics | Height | Yengo et al. 2018 |
 | Physical health / anthropometrics | Hypertension | Bi et al. 2020 |
 | Physical health / anthropometrics | Rheumatoid arthritis | Ishigaki et al. 2022 |
 | Physical health / anthropometrics | T1 Diabetes | Chiou et al. 2021 |

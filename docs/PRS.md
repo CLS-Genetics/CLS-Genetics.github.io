@@ -34,8 +34,6 @@ In the interim, we have a selection of PGI that can be obtained via application 
 
 | Domain | Trait | Reference |
 |--------|-------|-----------|
-| Physical health / anthropometrics | Addictive behaviour/ substance abuse | Hatoum et al. 2023 |
-| Physical health / anthropometrics | Age at initiation of smoking | Liu et al. 2019 |
 | Physical health / anthropometrics | Age at menarche | Day et al. 2017 |
 | Physical health / anthropometrics | Age at menopause | Ruth et al. 2021 |
 | Physical health / anthropometrics | Asthma | Han et al. 2020 |
@@ -63,10 +61,11 @@ In the interim, we have a selection of PGI that can be obtained via application 
 | Mental health and cognition | Major depressive disorder | Howard et al. 2019 |
 | Mental health and cognition | Parkinson's disease | Nalls et al. 2019 |
 | Mental health and cognition | Schizophrenia | Trubetskoy et al. 2022 |
+| Health/ health behaviours | Addictive behaviour/ substance abuse | Hatoum et al. 2023 |
+| Health/ health behaviours | Age at initiation of smoking | Liu et al. 2019 |
+| Health/ health behaviours | Alcoholic drinks per week | Liu et al. 2019 |
 | Health/ health behaviours | Cigarettes per day | Liu et al. 2019 |
 | Health/ health behaviours | Diet | Cole et al. 2020 |
-| Health/ health behaviours | Alcoholic drinks per week | Liu et al. 2019 |
-| Health/ health behaviours | Smoking | Liu et al. 2019 |
 | Social outcomes | Household Income | Hill et al. 2019 |
 | Social outcomes | Human Longevity | Pilling et al. 2017 |
 | Social outcomes | Parental Lifespan | Timmers et al. 2019 |

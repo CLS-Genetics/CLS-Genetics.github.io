@@ -73,9 +73,9 @@ In the interim, we have a selection of PGI that can be obtained via application 
 | Social outcomes | Parental Lifespan | Timmers et al. 2019 |
 | Personality | Agreeableness | Gupta et al. 2024 |
 | Personality | Conscientiousness | Gupta et al. 2024 |
+| Personality | Extraversion | Gupta et al. 2024 |
 | Personality | Openness to experience | Gupta et al. 2024 |
 | Personality | Neuroticism | Gupta et al. 2024 |
-| Personality | Loneliness | Gupta et al. 2024 |
 
 #### References 
 

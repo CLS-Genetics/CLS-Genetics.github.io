@@ -50,8 +50,8 @@ In the interim, we have a selection of PGI that can be obtained via application 
 | Physical health / anthropometrics | Height | Yengo et al. 2018 |
 | Physical health / anthropometrics | Hypertension | Bi et al. 2020 |
 | Physical health / anthropometrics | Rheumatoid arthritis | Ishigaki et al. 2022 |
-| Physical health / anthropometrics | T1 Diabetes | Chiou et al. 2021 |
-| Physical health / anthropometrics | T2 Diabetes | Suzuki et al. 2024 |
+| Physical health / anthropometrics | Type 1 Diabetes | Chiou et al. 2021 |
+| Physical health / anthropometrics | Type 2 Diabetes | Suzuki et al. 2024 |
 | Physical health / anthropometrics | Waist circumference | Christakoudi et al. 2021 |
 | Mental health and cognition | Anxiety | Forstner et al. 2021 |
 | Mental health and cognition | ADHD | Demontis et al. 2023 |

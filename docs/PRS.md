@@ -45,7 +45,7 @@ In the interim, we have a selection of PGI that can be obtained via application 
 | Physical health / anthropometrics | Coronary artery disease | Aragam et al. 2022 |
 | Physical health / anthropometrics | C-reactive protein measurement | Koskeridis et al. 2022 |
 | Physical health / anthropometrics | Fasting blood glucose measurement | Downie et al. 2022 |
-| Physical health / anthropometrics | Grip strength measurement | Mullins et al. 2021 |
+| Physical health / anthropometrics | Grip strength measurement | Jones et al. 2021 |
 | Physical health / anthropometrics | HbA1c measurement | Sinnott-Armstrong et al. 2021 |
 | Physical health / anthropometrics | Height | Yengo et al. 2018 |
 | Physical health / anthropometrics | Hypertension | Bi et al. 2020 |
@@ -114,6 +114,8 @@ Hill, W. D., Davies, N. M., Ritchie, S. J., Skene, N. G., Bryois, J., Bell, S., 
 Howard, D. M., Adams, M. J., Clarke, T.-K., Hafferty, J. D., Gibson, J., Shirali, M., Coleman, J. R. I., Hagenaars, S. P., Ward, J., Wigmore, E. M., Alloza, C., Shen, X., Barbu, M. C., Xu, E. Y., Whalley, H. C., Marioni, R. E., Porteous, D. J., Davies, G., Deary, I. J., … McIntosh, A. M. 2019. Genome-wide meta-analysis of depression identifies 102 independent variants and highlights the importance of the prefrontal brain regions. Nature Neuroscience, 223, 343–352. https://doi.org/10.1038/s41593-018-0326-7
 
 Ishigaki, K., Sakaue, S., Terao, C., Luo, Y., Sonehara, K., Yamaguchi, K., Amariuta, T., Too, C. L., Laufer, V. A., Scott, I. C., Viatte, S., Takahashi, M., Ohmura, K., Murasawa, A., Hashimoto, M., Ito, H., Hammoudeh, M., Emadi, S. A., Masri, B. K., … Raychaudhuri, S. 2022. Multi-ancestry genome-wide association analyses identify novel genetic mechanisms in rheumatoid arthritis. Nature Genetics, 5411, 1640–1651. https://doi.org/10.1038/s41588-022-01213-w
+
+Jones, G., Trajanoska, K., Santanasto, A.J. et al. Genome-wide meta-analysis of muscle weakness identifies 15 susceptibility loci in older men and women. Nat Commun 12, 654 (2021). https://doi.org/10.1038/s41467-021-20918-w
 
 Karlsson Linnér, R., Mallard, T.T., Barr, P.B. et al. Multivariate analysis of 1.5 million people identifies genetic associations with traits related to self-regulation and addiction. Nat Neurosci 24, 1367–1376 (2021). https://doi.org/10.1038/s41593-021-00908-3
 

@@ -83,7 +83,6 @@ In the interim, we have a selection of PGI that can be obtained via application 
 **Physical health**
 | Trait | Reference |
 |-------|-----------|
-| Age at menarche | Day et al. 2017 |
 | Age at menopause | Ruth et al. 2021 |
 | Asthma | Han et al. 2020 |
 | Blood pressure | Keaton et al. 2024 |

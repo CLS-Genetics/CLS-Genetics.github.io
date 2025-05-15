@@ -34,6 +34,7 @@ In the interim, we have a selection of PGI that can be obtained via application 
 ## Forthcoming additional PGI for full release
 
 **Anthropometrics**
+
 | Trait | Reference |
 |-------|-----------|
 | Birth weight | Warrington et al. 2019 |
@@ -45,6 +46,7 @@ In the interim, we have a selection of PGI that can be obtained via application 
 | Waist circumference | Christakoudi et al. 2021 |
 
 **Brain structure and cognition**
+
 | Trait | Reference |
 |-------|-----------|
 | Alzheimer's disease | Bellenguez et al. 2022 |
@@ -52,6 +54,7 @@ In the interim, we have a selection of PGI that can be obtained via application 
 | Parkinson's disease | Nalls et al. 2019 |
 
 **Health behaviours**
+
 | Trait | Reference |
 |-------|-----------|
 | Substance abuse | Hatoum et al. 2023 |
@@ -61,6 +64,7 @@ In the interim, we have a selection of PGI that can be obtained via application 
 | Diet | Cole et al. 2020 |
 
 **Mental health**
+
 | Trait | Reference |
 |-------|-----------|
 | Anxiety | Forstner et al. 2021 |
@@ -72,6 +76,7 @@ In the interim, we have a selection of PGI that can be obtained via application 
 | Schizophrenia | Trubetskoy et al. 2022 |
 
 **Personality**
+
 | Trait | Reference |
 |-------|-----------|
 | Agreeableness | Gupta et al. 2024 |
@@ -81,6 +86,7 @@ In the interim, we have a selection of PGI that can be obtained via application 
 | Neuroticism | Gupta et al. 2024 |
 
 **Physical health**
+
 | Trait | Reference |
 |-------|-----------|
 | Age at menopause | Ruth et al. 2021 |
@@ -96,6 +102,7 @@ In the interim, we have a selection of PGI that can be obtained via application 
 | Type 2 Diabetes | Suzuki et al. 2024 |
 
 **Social outcomes**
+
 | Trait | Reference |
 |-------|-----------|
 | Household Income | Hill et al. 2019 |

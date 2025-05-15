@@ -23,59 +23,86 @@ In the interim, we have a selection of PGI that can be obtained via application 
 | Domain | Trait | Reference |
 |--------|-------|-----------|
 | Social outcomes | Education | Okbay et al. 2022 |
-| Mental health and cognition | Cognition | Lee et al. 2018 |
-| Mental health and cognition | Cognition | Savage et al. 2018 |
-| Mental health and cognition | Externalising problems | Karlsson Linnér et al. 2021 |
-| Physical health / anthropometrics | Body Mass Index | Yengo et al. 2018 |
+| Brain structure and cognition  | Cognition | Lee et al. 2018 |
+| Brain structure and cognition  | Cognition | Savage et al. 2018 |
+| Mental health | Externalising problems | Karlsson Linnér et al. 2021 |
+| Anthropometrics | Body Mass Index | Yengo et al. 2018 |
+
 
 
 
 ## Forthcoming additional PGI for full release
 
-| Domain | Trait | Reference |
-|--------|-------|-----------|
-| Physical health / anthropometrics | Age at menarche | Day et al. 2017 |
-| Physical health / anthropometrics | Age at menopause | Ruth et al. 2021 |
-| Physical health / anthropometrics | Asthma | Han et al. 2020 |
-| Physical health / anthropometrics | Birth weight | Warrington et al. 2019 |
-| Physical health / anthropometrics | Blood pressure | Keaton et al. 2024 |
-| Physical health / anthropometrics | Body fat distribution | Pulit et al. 2018 |
-| Physical health / anthropometrics | Body Mass Index (childhood) | Vogelezang et al. 2020 |
-| Physical health / anthropometrics | Body Mass Index (adulthood) | Yengo et al. 2018 |
-| Physical health / anthropometrics | Coronary artery disease | Aragam et al. 2022 |
-| Physical health / anthropometrics | C-reactive protein measurement | Koskeridis et al. 2022 |
-| Physical health / anthropometrics | Fasting blood glucose measurement | Downie et al. 2022 |
-| Physical health / anthropometrics | Grip strength measurement | Jones et al. 2021 |
-| Physical health / anthropometrics | HbA1c measurement | Sinnott-Armstrong et al. 2021 |
-| Physical health / anthropometrics | Height | Yengo et al. 2018 |
-| Physical health / anthropometrics | Hypertension | Bi et al. 2020 |
-| Physical health / anthropometrics | Rheumatoid arthritis | Ishigaki et al. 2022 |
-| Physical health / anthropometrics | Type 1 Diabetes | Chiou et al. 2021 |
-| Physical health / anthropometrics | Type 2 Diabetes | Suzuki et al. 2024 |
-| Physical health / anthropometrics | Waist circumference | Christakoudi et al. 2021 |
-| Mental health and cognition | Anxiety | Forstner et al. 2021 |
-| Mental health and cognition | ADHD | Demontis et al. 2023 |
-| Mental health and cognition | Alzheimer's Disease | Bellenguez et al. 2022 |
-| Mental health and cognition | Autism spectrum disorder | Grove et al. 2019 |
-| Mental health and cognition | Bipolar disorder | Mullins et al. 2021 |
-| Mental health and cognition | Hippocampal volume | Liu et al. 2023 |
-| Mental health and cognition | Depressive symptoms | Baselmans et al. 2019 |
-| Mental health and cognition | Major depressive disorder | Howard et al. 2019 |
-| Mental health and cognition | Parkinson's disease | Nalls et al. 2019 |
-| Mental health and cognition | Schizophrenia | Trubetskoy et al. 2022 |
-| Health behaviours | Addictive behaviour/ substance abuse | Hatoum et al. 2023 |
-| Health behaviours | Age at initiation of smoking | Liu et al. 2019 |
-| Health behaviours | Alcoholic drinks per week | Liu et al. 2019 |
-| Health behaviours | Cigarettes per day | Liu et al. 2019 |
-| Health behaviours | Diet | Cole et al. 2020 |
-| Social outcomes | Household Income | Hill et al. 2019 |
-| Social outcomes | Human Longevity | Pilling et al. 2017 |
-| Social outcomes | Parental Lifespan | Timmers et al. 2019 |
-| Personality | Agreeableness | Gupta et al. 2024 |
-| Personality | Conscientiousness | Gupta et al. 2024 |
-| Personality | Extraversion | Gupta et al. 2024 |
-| Personality | Openness to experience | Gupta et al. 2024 |
-| Personality | Neuroticism | Gupta et al. 2024 |
+**Anthropometrics**
+| Trait | Reference |
+|-------|-----------|
+| Birth weight | Warrington et al. 2019 |
+| Body fat distribution | Pulit et al. 2018 |
+| Body Mass Index (childhood) | Vogelezang et al. 2020 |
+| Body Mass Index (adulthood) | Yengo et al. 2018 |
+| Grip strength | Jones et al. 2021 |
+| Height | Yengo et al. 2018 |
+| Waist circumference | Christakoudi et al. 2021 |
+
+**Brain structure and cognition**
+| Trait | Reference |
+|-------|-----------|
+| Alzheimer's disease | Bellenguez et al. 2022 |
+| Hippocampal volume | Liu et al. 2023 |
+| Parkinson's disease | Nalls et al. 2019 |
+
+**Health behaviours**
+| Trait | Reference |
+|-------|-----------|
+| Substance abuse | Hatoum et al. 2023 |
+| Age at initiation of smoking | Liu et al. 2019 |
+| Alcoholic drinks per week | Liu et al. 2019 |
+| Cigarettes per day | Liu et al. 2019 |
+| Diet | Cole et al. 2020 |
+
+**Mental health**
+| Trait | Reference |
+|-------|-----------|
+| Anxiety | Forstner et al. 2021 |
+| ADHD | Demontis et al. 2023 |
+| Autism spectrum disorder | Grove et al. 2019 |
+| Bipolar disorder | Mullins et al. 2021 |
+| Depressive symptoms | Baselmans et al. 2019 |
+| Major depressive disorder | Howard et al. 2019 |
+| Schizophrenia | Trubetskoy et al. 2022 |
+
+**Personality**
+| Trait | Reference |
+|-------|-----------|
+| Agreeableness | Gupta et al. 2024 |
+| Conscientiousness | Gupta et al. 2024 |
+| Extraversion | Gupta et al. 2024 |
+| Openness to experience | Gupta et al. 2024 |
+| Neuroticism | Gupta et al. 2024 |
+
+**Physical health**
+| Trait | Reference |
+|-------|-----------|
+| Age at menarche | Day et al. 2017 |
+| Age at menopause | Ruth et al. 2021 |
+| Asthma | Han et al. 2020 |
+| Blood pressure | Keaton et al. 2024 |
+| Coronary artery disease | Aragam et al. 2022 |
+| C-reactive protein | Koskeridis et al. 2022 |
+| Fasting glucose | Downie et al. 2022 |
+| HbA1c | Sinnott-Armstrong et al. 2021 |
+| Hypertension | Bi et al. 2020 |
+| Rheumatoid arthritis | Ishigaki et al. 2022 |
+| Type 1 Diabetes | Chiou et al. 2021 |
+| Type 2 Diabetes | Suzuki et al. 2024 |
+
+**Social outcomes**
+| Trait | Reference |
+|-------|-----------|
+| Household Income | Hill et al. 2019 |
+| Human Longevity | Pilling et al. 2017 |
+| Parental Lifespan | Timmers et al. 2019 |
+
 
 #### References 
 

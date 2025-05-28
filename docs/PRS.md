@@ -1,84 +1,120 @@
 ---
 layout: default
-title: Polygenic risk scores
+title: Polygenic indexes
 nav_order: 6
 ---
 
-# **Polygenic risk scores** 
+# **Polygenic indexes** 
 
 ## Our Aim
 
-We aim to generate and make polygenic risk scores (PRS) available for all CLS cohorts using a standardised pipeline which is transparent, efficient, and updatable. Our approach to sharing these data seeks to balance the need to make data available to enable research with the ethical need to avoid potential risks.
+We aim to generate and make polygenic indexes (PGI) available for all CLS cohorts using a standardised pipeline which is transparent, efficient, and updatable. Our approach to sharing these data seeks to balance the need to make data available to enable research with the ethical need to avoid potential risks.
 
-PRS will be derived for multiple health and social traits (below), and made available on the UKDS via special license agreement.
+PGI will be derived for multiple health and social traits (below), and made available on the UKDS via special license agreement.
 
-We are aiming for a full release of the PGS in 2025, though this is dependent on capacity (we are recruiting for a replacement genetics data manager);. We will email genetics data applicants when the data are available. For further updates please email clsdata@ucl.ac.uk.
+We are aiming for a full release of the PGI in 2025, though this is dependent on internal capacity. We will email genetics data applicants when the data are available. For further updates please email clsdata@ucl.ac.uk.
 
-In the interim, we have a selection of PGS that can be obtained via application to the CLS DAC (see [Introduction](https://cls-genetics.github.io/docs/PRS.html)). These PGS are available for the NCDS, BCS, Next Steps, and MCS (parents and children). 
+In the interim, we have a selection of PGI that can be obtained via application to the CLS DAC (see [Introduction](https://cls-genetics.github.io/docs/intro.html)). These PGI are available for the NCDS, BCS, Next Steps, and MCS (parents and children). 
 
 
 
-## Current PRS available via the DAC 
+## Current PGI available via the DAC (last updated 31/03/2025)
 
 | Domain | Trait | Reference |
 |--------|-------|-----------|
 | Social outcomes | Education | Okbay et al. 2022 |
-| Mental health and cognition | Cognition | Lee et al. 2018 |
-| Mental health and cognition | Cognition | Savage et al. 2018 |
-| Mental health and cognition | Externalising problems | Karlsson Linnér et al. 2021 |
-| Physical health / anthropometrics | Body Mass Index | Yengo et al. 2018 |
+| Brain structure and cognition  | Cognition | Lee et al. 2018 |
+| Brain structure and cognition  | Cognition | Savage et al. 2018 |
+| Mental health | Externalising problems | Karlsson Linnér et al. 2021 |
+| Anthropometrics | Body Mass Index | Yengo et al. 2018 |
 
 
 
-## Forthcoming additional PRS for full release
 
-| Domain | Trait | Reference |
-|--------|-------|-----------|
-| Physical health / anthropometrics | Addictive behaviour/ substance abuse | Hatoum et al. 2023 |
-| Physical health / anthropometrics | Age at initiation of smoking | Liu et al. 2019 |
-| Physical health / anthropometrics | Age at menarche | Day et al. 2017 |
-| Physical health / anthropometrics | Age at menopause | Ruth et al. 2021 |
-| Physical health / anthropometrics | Asthma | Han et al. 2020 |
-| Physical health / anthropometrics | Birth weight | Warrington et al. 2019 |
-| Physical health / anthropometrics | Blood pressure | Keaton et al. 2024 |
-| Physical health / anthropometrics | Body fat percentage | Roshandel et al. 2023 |
-| Physical health / anthropometrics | Body Mass Index childhood | Vogelezang et al. 2020 |
-| Physical health / anthropometrics | Coronary artery disease | Aragam et al. 2022 |
-| Physical health / anthropometrics | C-reactive protein measurement | Koskeridis et al. 2022 |
-| Physical health / anthropometrics | Fasting blood glucose measurement | Downie et al. 2022 |
-| Physical health / anthropometrics | Grip strength measurement | Mullins et al. 2021 |
-| Physical health / anthropometrics | HbA1c measurement | Sinnott-Armstrong et al. 2021 |
-| Physical health / anthropometrics | Hypertension | Bi et al. 2020 |
-| Physical health / anthropometrics | Rheumatoid arthritis | Ishigaki et al. 2022 |
-| Physical health / anthropometrics | T1 Diabetes | Chiou et al. 2021 |
-| Physical health / anthropometrics | T2 Diabetes | Suzuki et al. 2024 |
-| Physical health / anthropometrics | Waist circumference | Christakoudi et al. 2021 |
-| Mental health and cognition | Anxiety | Forstner et al. 2021 |
-| Mental health and cognition | ADHD | Demontis et al. 2023 |
-| Mental health and cognition | Alzheimer's Disease | Bellenguez et al. 2022 |
-| Mental health and cognition | Autism spectrum disorder | Grove et al. 2019 |
-| Mental health and cognition | Bipolar disorder | Mullins et al. 2021 |
-| Mental health and cognition | Hippocampal volume | Liu et al. 2023 |
-| Mental health and cognition | Major depressive disorder | Howard et al. 2019 |
-| Mental health and cognition | Parkinson's disease | Nalls et al. 2019 |
-| Mental health and cognition | Schizophrenia | Trubetskoy et al. 2022 |
-| Health/ health behaviours | Alcohol consumption | Liu et al. 2019 |
-| Health/ health behaviours | Cigarettes per day | Liu et al. 2019 |
-| Health/ health behaviours | Diet | Cole et al. 2020 |
-| Health/ health behaviours | Drinks per week | Liu et al. 2019 |
-| Health/ health behaviours | Smoking | Liu et al. 2019 |
-| Social outcomes | Household Income | Hill et al. 2019 |
-| Social outcomes | Human Longevity | Pilling et al. 2017 |
-| Social outcomes | Parental Lifespan | Timmers et al. 2019 |
-| Personality | Agreeableness | Gupta et al. 2024 |
-| Personality | Conscientiousness | Gupta et al. 2024 |
-| Personality | Openness to experience | Gupta et al. 2024 |
-| Personality | Neuroticism | Gupta et al. 2024 |
-| Personality | Loneliness | Gupta et al. 2024 |
+## Forthcoming additional PGI for full release
+
+**Anthropometrics**
+
+| Trait | Reference |
+|-------|-----------|
+| Birth weight | Warrington et al. 2019 |
+| Body fat distribution | Pulit et al. 2018 |
+| Body Mass Index (childhood) | Vogelezang et al. 2020 |
+| Body Mass Index (adulthood) | Yengo et al. 2018 |
+| Grip strength | Jones et al. 2021 |
+| Height | Yengo et al. 2018 |
+| Waist circumference | Christakoudi et al. 2021 |
+
+**Brain structure and cognition**
+
+| Trait | Reference |
+|-------|-----------|
+| Alzheimer's disease | Bellenguez et al. 2022 |
+| Hippocampal volume | Liu et al. 2023 |
+| Parkinson's disease | Nalls et al. 2019 |
+
+**Health behaviours**
+
+| Trait | Reference |
+|-------|-----------|
+| Substance abuse | Hatoum et al. 2023 |
+| Age at initiation of smoking | Liu et al. 2019 |
+| Alcoholic drinks per week | Liu et al. 2019 |
+| Cigarettes per day | Liu et al. 2019 |
+| Diet | Cole et al. 2020 |
+
+**Mental health**
+
+| Trait | Reference |
+|-------|-----------|
+| Anxiety | Forstner et al. 2021 |
+| ADHD | Demontis et al. 2023 |
+| Autism spectrum disorder | Grove et al. 2019 |
+| Bipolar disorder | Mullins et al. 2021 |
+| Depressive symptoms | Baselmans et al. 2019 |
+| Major depressive disorder | Howard et al. 2019 |
+| Schizophrenia | Trubetskoy et al. 2022 |
+
+**Personality**
+
+| Trait | Reference |
+|-------|-----------|
+| Agreeableness | Gupta et al. 2024 |
+| Conscientiousness | Gupta et al. 2024 |
+| Extraversion | Gupta et al. 2024 |
+| Openness to experience | Gupta et al. 2024 |
+| Neuroticism | Gupta et al. 2024 |
+
+**Physical health**
+
+| Trait | Reference |
+|-------|-----------|
+| Age at menopause | Ruth et al. 2021 |
+| Asthma | Han et al. 2020 |
+| Blood pressure | Keaton et al. 2024 |
+| Coronary artery disease | Aragam et al. 2022 |
+| C-reactive protein | Koskeridis et al. 2022 |
+| Fasting glucose | Downie et al. 2022 |
+| HbA1c | Sinnott-Armstrong et al. 2021 |
+| Hypertension | Bi et al. 2020 |
+| Rheumatoid arthritis | Ishigaki et al. 2022 |
+| Type 1 Diabetes | Chiou et al. 2021 |
+| Type 2 Diabetes | Suzuki et al. 2024 |
+
+**Social outcomes**
+
+| Trait | Reference |
+|-------|-----------|
+| Household Income | Hill et al. 2019 |
+| Human Longevity | Pilling et al. 2017 |
+| Parental Lifespan | Timmers et al. 2019 |
+
 
 #### References 
 
 Aragam, K. G., Jiang, T., Goel, A., Kanoni, S., Wolford, B. N., Atri, D. S., Weeks, E. M., Wang, M., Hindy, G., Zhou, W., Grace, C., Roselli, C., Marston, N. A., Kamanu, F. K., Surakka, I., Venegas, L. M., Sherliker, P., Koyama, S., Ishigaki, K., … CARDIoGRAMplusC4D Consortium. 2022. Discovery and systematic characterization of risk variants and genes for coronary artery disease in over a million participants. Nature Genetics, 5412, 1803–1815. https://doi.org/10.1038/s41588-022-01233-6
+
+Baselmans, B. M. L., Jansen, R., Ip, H. F., van Dongen, J., Abdellaoui, A., van de Weijer, M. P., Bao, Y., Smart, M., Kumari, M., Willemsen, G., Hottenga, J. J., BIOS consortium, Social Science Genetic Association Consortium, Boomsma, D. I., de Geus, E. J. C., Nivard, M. G., & Bartels, M. (2019). Multivariate genome-wide analyses of the well-being spectrum. Nature genetics, 51(3), 445–451. https://doi.org/10.1038/s41588-018-0320-8
 
 Bellenguez, C., Küçükali, F., Jansen, I. E., Kleineidam, L., Moreno-Grau, S., Amin, N., Naj, A. C., Campos-Martin, R., Grenier-Boley, B., Andrade, V., Holmans, P. A., Boland, A., Damotte, V., van der Lee, S. J., Costa, M. R., Kuulasmaa, T., Yang, Q., de Rojas, I., Bis, J. C., … et al. 2022. New insights into the genetic etiology of Alzheimer’s disease and related dementias. Nature Genetics, 544, 412–436. https://doi.org/10.1038/s41588-022-01024-z
 
@@ -112,6 +148,8 @@ Howard, D. M., Adams, M. J., Clarke, T.-K., Hafferty, J. D., Gibson, J., Shirali
 
 Ishigaki, K., Sakaue, S., Terao, C., Luo, Y., Sonehara, K., Yamaguchi, K., Amariuta, T., Too, C. L., Laufer, V. A., Scott, I. C., Viatte, S., Takahashi, M., Ohmura, K., Murasawa, A., Hashimoto, M., Ito, H., Hammoudeh, M., Emadi, S. A., Masri, B. K., … Raychaudhuri, S. 2022. Multi-ancestry genome-wide association analyses identify novel genetic mechanisms in rheumatoid arthritis. Nature Genetics, 5411, 1640–1651. https://doi.org/10.1038/s41588-022-01213-w
 
+Jones, G., Trajanoska, K., Santanasto, A.J. et al. Genome-wide meta-analysis of muscle weakness identifies 15 susceptibility loci in older men and women. Nat Commun 12, 654 (2021). https://doi.org/10.1038/s41467-021-20918-w
+
 Karlsson Linnér, R., Mallard, T.T., Barr, P.B. et al. Multivariate analysis of 1.5 million people identifies genetic associations with traits related to self-regulation and addiction. Nat Neurosci 24, 1367–1376 (2021). https://doi.org/10.1038/s41593-021-00908-3
 
 Keaton, J. M., Kamali, Z., Xie, T., Vaez, A., Williams, A., Goleva, S. B., Ani, A., Evangelou, E., Hellwege, J. N., Yengo, L., Young, W. J., Traylor, M., Giri, A., Zheng, Z., Zeng, J., Chasman, D. I., Morris, A. P., Caulfield, M. J., Hwang, S.-J., … Warren, H. R. 2024. Genome-wide analysis in over 1 million individuals of European ancestry yields improved polygenic risk scores for blood pressure traits. Nature Genetics, 565, 778–791. https://doi.org/10.1038/s41588-024-01714-w
@@ -132,7 +170,7 @@ Okbay, A., Wu, Y., Wang, N., Jayashankar, H., Bennett, M., Nehzati, S. M., Sidor
 
 Pilling, L. C., Kuo, C.-L., Sicinski, K., Tamosauskaite, J., Kuchel, G. A., Harries, L. W., Herd, P., Wallace, R., Ferrucci, L., & Melzer, D. 2017. Human longevity: 25 genetic loci associated in 389,166 UK biobank participants. Aging, 912, 2504–2520. https://doi.org/10.18632/aging.101334
 
-Roshandel, D., Lu, T., Paterson, A. D., & Dash, S. 2023. Beyond apples and pears: sex-specific genetics of body fat percentage. Frontiers in Endocrinology, 14, 1274791. https://doi.org/10.3389/fendo.2023.1274791
+Pulit, S. L., Stoneman, C., Morris, A. P., Wood, A. R., Glastonbury, C. A., Tyrrell, J., ... & Lindgren, C. M. (2019). Meta-analysis of genome-wide association studies for body fat distribution in 694 649 individuals of European ancestry. Human molecular genetics, 28(1), 166-174.
 
 Ruth, K. S., Day, F. R., Hussain, J., Martínez-Marchal, A., Aiken, C. E., Azad, A., Thompson, D. J., Knoblochova, L., Abe, H., Tarry-Adkins, J. L., Gonzalez, J. M., Fontanillas, P., Claringbould, A., Bakker, O. B., Sulem, P., Walters, R. G., Terao, C., Turon, S., Horikoshi, M., … et al. 2021. Genetic insights into biological mechanisms governing human ovarian ageing. Nature, 5967872, 393–397. https://doi.org/10.1038/s41586-021-03779-7
 

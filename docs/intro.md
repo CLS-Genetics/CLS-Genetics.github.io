@@ -14,6 +14,8 @@ See our resource profile <a href="https://www.medrxiv.org/content/10.1101/2024.1
 
 ## Data Access
 
+Pseudonymised genomic data and polygenic indices/scores are available without charge to the global research community upon data application request.
+
 To access genetic data combined with survey data, please see <a href="https://cls.ucl.ac.uk/data-access-training/data-access/">link</a> (i.e., complete the application form which is then reviewed approximately monthly in data access committee meetings; the same process applies to internal and external applicants). The <a href="https://cls.ucl.ac.uk/wp-content/uploads/2017/02/CLS_Data_Access_Framework.pdf">CLS Data Access Framework</a> gives further details on the application process, including details on ethics and socially controversial research. 
 
 A list of approved applications is held <a href="https://cls.ucl.ac.uk/wp-content/uploads/2017/02/dac_projects_register.pdf">here</a>.
@@ -24,8 +26,9 @@ We are happy to contribute to GWAS or other consortia, please [contact us](mailt
 
 ## Genetic data
 
-Please note that there are multiple versions of the genomic data available to researchers. There are two main types of genomic data available to researchers at present: genotype array data and genotype array data imputed to sequence level density. Imputation has been performed several times as new sequenced reference panels become available. We are currently working on imputing all of the CLS genetic data to TOPMed, the most up to date reference panel (<https://topmed.nhlbi.nih.gov/>).  
+There are two main types of genomic data available to researchers at present: genotype array data and genotype array data imputed to sequence level density. Imputation has been performed several times as new sequenced reference panels become available. 
 
 ## Updates:
+
 - **2024**: TOPMed imputation completed across all cohorts
 - **Coming 2025**: Polygenic scores for multiple health and social traits ([details](/docs/PRS.html))

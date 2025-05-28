@@ -1,7 +1,6 @@
 source 'https://rubygems.org'
 
-# Remove github-pages gem
-# gem "github-pages", group: :jekyll_plugins
+# Updated to fix platform issues
 gem "jekyll", "~> 4.3"
 gem "just-the-docs", "0.4.2"
 gem "webrick", "~> 1.7"

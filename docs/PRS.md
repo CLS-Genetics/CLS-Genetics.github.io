@@ -22,7 +22,7 @@ In the interim, we have a selection of PGI that can be obtained via application 
 
 | Domain | Trait | Reference |
 |--------|-------|-----------|
-| Social outcomes | Education | [Okbay et al. 2022]([url](https://www.nature.com/articles/s41588-022-01016-z)) |
+| Social outcomes | Education | [Okbay et al. 2022](https://www.nature.com/articles/s41588-022-01016-z) |
 | Brain structure and cognition  | Cognition | Lee et al. 2018 |
 | Brain structure and cognition  | Cognition | Savage et al. 2018 |
 | Mental health | Externalising problems | Karlsson Linnér et al. 2021 |

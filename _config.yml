@@ -3,7 +3,7 @@ description: "This site provides documentation for the CLS genomic data."
 theme: just-the-docs
 
 # If your site is served at https://cls-genetics.github.io/ (no extra repo path), leave baseurl blank:
-url: "https://cls-genetics.github.io"
+url: "https://cls-genetics.github.io" 
 baseurl: ""
 
 # Any extra links in the top-right corner, for example:

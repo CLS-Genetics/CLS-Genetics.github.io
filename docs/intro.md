@@ -16,9 +16,13 @@ See our resource profile <a href="https://www.medrxiv.org/content/10.1101/2024.1
 
 Pseudonymised genomic data and polygenic indices/scores are available without charge to the global research community upon data application request.
 
-To access genetic data combined with survey data, please see <a href="https://cls.ucl.ac.uk/data-access-training/data-access/">link</a> (i.e., complete the application form which is then reviewed approximately monthly in data access committee meetings; the same process applies to internal and external applicants). The <a href="https://cls.ucl.ac.uk/wp-content/uploads/2017/02/CLS_Data_Access_Framework.pdf">CLS Data Access Framework</a> gives further details on the application process, including details on ethics and socially controversial research. 
+To access genetic data combined with survey data, please see <a href="https://cls.ucl.ac.uk/data-access-training/data-access/">link</a> (i.e., complete the application form which is then reviewed approximately monthly in data access committee meetings; the same process applies to internal and external applicants). The <a href="https://cls.ucl.ac.uk/wp-content/uploads/2017/02/CLS_Data_Access_Framework.pdf">CLS Data Access Framework</a> gives further details on the application process, including details on ethics and socially controversial research. The flowchart below shows the access procedure through the CLS DAC.
 
 A list of approved applications is held <a href="https://cls.ucl.ac.uk/wp-content/uploads/2017/02/dac_projects_register.pdf">here</a>.
+
+![CLS DAC Access](genetics_flowchart.png)
+
+
 
 ## Contribute to GWAS or other consortia
 

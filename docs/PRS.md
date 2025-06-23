@@ -23,7 +23,6 @@ In the interim, we have a selection of PGI that can be obtained via application 
 | Domain | Trait | Reference |
 |--------|-------|-----------|
 | Social outcomes | Education | [Okbay et al. 2022](https://www.nature.com/articles/s41588-022-01016-z) |
-| Brain structure and cognition  | Cognition | [Lee et al. 2018](https://www.nature.com/articles/s41588-018-0147-3) |
 | Brain structure and cognition  | Cognition | [Savage et al. 2018](https://www.nature.com/articles/s41588-018-0152-6) |
 | Mental health | Externalising problems | [Karlsson Linnér et al. 2021](https://www.nature.com/articles/s41593-021-00908-3) |
 | Anthropometrics | Body Mass Index | [Yengo et al. 2018](https://academic.oup.com/hmg/article/27/20/3641/5067845) |

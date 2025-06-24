@@ -29,7 +29,7 @@ The genetic data were then recoded as vcf files before uploading to the TOPMed I
 
 The final dataset consists of 20,247 samples and 8,720,874  genetic varaints (genome build: hg38). The data are provided in plink binary format.
 
-### Number of mother/ fathers/ children after QC:
+### Number of individuals, parent-offspring duos, and mother-father-offspring trios after QC:
 
 | Category       | Count   |
 | :----          |    :----   |   

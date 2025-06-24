@@ -36,9 +36,9 @@ The final dataset consists of 20,247 samples and 8,720,874  genetic varaints (ge
 | Child/ cohort member [C] | 7,836  |
 | Mother [M]      | 7,777 |
 | Father [F]      | 4,634   | 
-|Mother-cohort member duos| 6,431 |
-|Father-cohort member duos| 3,804 |
-|Mother-father-cohort member trios | 3,119   | 
+|Mother-cohort member duos| 6,426 |
+|Father-cohort member duos| 3,802 |
+|Mother-father-cohort member trios | 3,117   | 
 
 ## Genetic data (non-QCd)
 

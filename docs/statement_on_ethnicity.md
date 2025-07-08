@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Statement on Ancestry
+nav_exclude: true
 ---
 
 # **Statement on Ancestry** 

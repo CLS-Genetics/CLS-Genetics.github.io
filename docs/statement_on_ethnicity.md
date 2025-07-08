@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Statement on Ancestry
-nav_order: 10
 ---
 
 # **Statement on Ancestry** 

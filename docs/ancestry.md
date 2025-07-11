@@ -18,6 +18,13 @@ This approach means that cohort participants who are genetically similar to othe
 
 The MCS and Next Steps have collected genetic data from cohort participants and these study members can be included in ongoing multi-ancestry initiatives to increase diversity and representativeness in genetic research; if our data would be useful to you then please contact us. We plan to release future versions of the CLS PGI repository with PGI derived for all cohort participants, but in the meantime, researchers can access the full genomewide genetic data on all cohort participants via the CLS Data Access Committee. 
 
+
+# **Statements on ancestry and genetic similarity** 
+Researchers using the CLS PGIs must acknowledge in research outputs that they are limited to those who are genetically similar to European samples in 1000 Genomes Phase 3, the limitations that this will impose upon their results, and a brief justification. For example:
+
+“Our study was limited to cohort members who were genetically similar to European samples in 1000 Genomes Phase 3 as defined using an elastic net model (**delete as appropriate:** in order to minimise sample heterogeneity and limit bias / to aid comparability with previous studies / given less diverse cohorts / since comparable polygenic scores were not available across ancestral groups). This approach will limit the generalisability of our findings to the broarder UK population. As genetic knowledge improves across the genetic similarlity spectrum future research should extend these findings to other groups.”
+
+
 ## References
 
 Coop, G. (2022). Genetic similarity versus genetic ancestry groups as sample descriptors in human genetics. ArXiv Preprint ArXiv:2207.11595.

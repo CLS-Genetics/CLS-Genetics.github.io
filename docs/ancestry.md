@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ancestry
+title: Ancestry and genetic similarity
 nav_order: 10
 ---
 

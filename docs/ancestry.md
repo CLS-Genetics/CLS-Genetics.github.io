@@ -4,7 +4,7 @@ title: Ancestry and genetic similarity
 nav_order: 10
 ---
 
-# **Ancestry** 
+# **Ancestry and genetic similarity** 
 
 Genetic analyses have predominantly been conducted on samples of individuals who are of “European ancestry” (Mills & Rahal, 2019). This emphasis has arisen due to numerous reasons, including the underrepresentation of some population groups in genetic research studies; biases in availability of funding, expertise, technology, and infrastructure globally to study different populations; and the desire to control for correlations amongst genetic, geographical and environmental factors that can bias analyses when incorrectly modelled or unmodelled.
 

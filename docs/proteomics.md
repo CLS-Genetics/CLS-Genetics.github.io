@@ -7,7 +7,7 @@ nav_order: 8
 # **Proteomics** 
 Proteomics involves quantifying the proteins present in a sample, and this information can be used to identify important biological pathways, biomarkers for diseases, and potential drug targets.
 
-Proteomics is now available for the NCDS cohort (N=8005). 
+Proteomics is now available for the NCDS cohort (N=8,005). 
 
 ## Panels 
 

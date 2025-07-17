@@ -35,12 +35,12 @@ This approach means that cohort individuals who provided biosamples but are gene
 The Millennium Cohort Study (MCS) and Next Steps are comprised of diverse individuals who have provided genetic data and can be included in ongoing multi-ancestry initiatives to increase diversity and representativeness in genetic research: please apply for our data or contact [Tim Morris](mailto:t.t.morris@ucl.ac.uk) and [David Bann](mailto:david.bann@ucl.ac.uk) with questions and to discuss potential collaboration. 
 
 ## Samples included/excluded in the CLS PGI repository across the CLS studies. 
-| Cohort     | Passed QC [1] | Excluded (>4 SD from PC1) [2] | Included in PGI [3] |
-|------------|---------------|-------------------------------|---------------------|
-| NCDS       | 6,396         | 72                            | 6,396               |
-| BCS        | 5,598         | 237                           | 5,361               |
-| Next Steps | 1,568         | 296                           | 1,272               |
-| MCS        | 20,247        | 3,142                         | 17,105              |
+| Cohort     | Passed QC [1] | Excluded (>4 SD from PC1) [2] | Included [3] |
+|------------|---------------|-------------------------------|--------------|
+| NCDS       | 6,396         | 72                            | 6,396        |
+| BCS        | 5,598         | 237                           | 5,361        |
+| Next Steps | 1,568         | 296                           | 1,272        |
+| MCS        | 20,247        | 3,142                         | 17,105       |
   
 [1]: Number of individuals who passed genetic quality control.  
 [2]: Number of individuals excluded for being more than 4 standard deviations from the mean of the first principal component of population structure.  

@@ -34,7 +34,8 @@ This approach means that cohort individuals who provided biosamples but are gene
 
 The Millennium Cohort Study (MCS) and Next Steps are comprised of diverse individuals who have provided genetic data and can be included in ongoing multi-ancestry initiatives to increase diversity and representativeness in genetic research: please apply for our data or contact [Tim Morris](mailto:t.t.morris@ucl.ac.uk) and [David Bann](mailto:david.bann@ucl.ac.uk) with questions and to discuss potential collaboration. 
 
-## Samples included/excluded in the CLS PGI repository across the CLS studies. 
+## Samples included/excluded in the CLS PGI repository across the CLS studies.
+
 | Cohort     | Passed QC [1] | Excluded (>4 SD from PC1) [2] | Included [3] |
 |------------|---------------|-------------------------------|--------------|
 | NCDS       | 6,396         | 72                            | 6,396        |

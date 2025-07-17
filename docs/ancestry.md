@@ -14,12 +14,11 @@ This page provides a brief introduction to ancestry and genetic similarity as it
 
 **CLS PGI repository – Version 2 (planned 2026)** – PGIs for a broader and more genetically diverse range of participants. Forthcoming.  
 
-For data access processes, please see the [Data Access page](/docs/access.md). 
-
+For data access procedures, please see the [Data Access page](/docs/access.md). 
 
 ## Suggested wording for outputs using Version 1 of the CLS polygenic index repository
 
-_“Our study was limited to individuals who were genetically similar to European samples in 1000 Genomes Phase 3 as defined using an elastic net model (**delete as appropriate:** in order to minimise sample heterogeneity and limit bias due to differential PGI performance across study individuals / to aid comparability with previous studies / given the use of less diverse cohorts / since comparable polygenic indexes were not available for all individuals). This limits the generalisability of our findings to the broader population. As genetic knowledge improves across the genetic similarity spectrum, future research should extend these findings to the entire population”_
+_“Our study was limited to individuals who were genetically similar to European samples in 1000 Genomes Phase 3 as defined using an elastic net model (**delete as appropriate:)** in order to minimise sample heterogeneity and limit bias due to differential PGI performance across study individuals / to aid comparability with previous studies / given the use of less diverse cohorts / since comparable polygenic indexes were not available for all individuals). This limits the generalisability of our findings to the broader population. As genetic knowledge improves across the genetic similarity spectrum, future research should extend these findings to the entire population”_
 
 ## Background
 Genetic analyses have predominantly been conducted on samples of individuals who are of “European ancestry” (Mills & Rahal, 2019). This has arisen for a number of reasons, including the underrepresentation of diverse population groups in genetic research studies; differences in availability of funding, expertise, technology, and infrastructure globally to study different populations; and the need to take into account correlations between genetic and environmental factors that differ across population groups and therefore may bias analyses when  incorrectly modelled. 

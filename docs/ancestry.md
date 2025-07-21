@@ -42,9 +42,10 @@ The Millennium Cohort Study (MCS) and Next Steps are comprised of diverse indivi
 | Next Steps | 1,568         | 296                           | 1,272        |
 | MCS        | 20,247        | 3,142                         | 17,105       |
   
+Individuals were included in the CLS PGI repository if their samples had passed genetic quality control, they were genetically similar to European samples in 1000 Genomes Phase 3 using an elastic net model, and <4 standard deviations from mean of the first principal component of population structure.  
 (1): Number of individuals who passed genetic quality control.  
-(2): Number of individuals excluded for being more than 4 standard deviations from the mean of the first principal component of population structure.  
-(3): Number of individuals genetically similar to European samples in 1000 Genomes Phase 3 and included in the PGI repository.  
+(2): Number of individuals excluded from PGI repository due to being more than 4 standard deviations from the mean of the first principal component of population structure.  
+(3): Number of individuals who were genetically similar to European samples in 1000 Genomes Phase 3 and included in the PGI repository.  
 
 
 ## References

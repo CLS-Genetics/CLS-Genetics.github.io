@@ -19,6 +19,6 @@ The results of the analyses are provided in the data in Olink’s Normalized Pro
 
 ## Data availability
 
-Availble via [UK Data Service Special License](https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=9254&utm_campaign=data_update2_202407&utm_medium=email&utm_source=newsletter&dm_t=0,0,0,0,0#!/details).
+Availble via [UK Data Service Special Licence](https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=9254&utm_campaign=data_update2_202407&utm_medium=email&utm_source=newsletter&dm_t=0,0,0,0,0#!/details).
 
 

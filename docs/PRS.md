@@ -12,7 +12,7 @@ We aim to generate and make polygenic indexes (PGI) available for all CLS cohort
 
 PGI will be derived for multiple health and social traits (below), and made available on the UKDS via special license agreement.
 
-We are aiming for a full release of the PGI in 2025, though this is dependent on internal capacity. We will email genetics data applicants when the data are available. For further updates please email clsdata@ucl.ac.uk.
+We are aiming for a full release of the PGI in 2025, though this is dependent on internal capacity. We will email genetics data applicants when the data are available. For further updates please [email us](mailto:clsdata@ucl.ac.uk).
 
 In the interim, we have a selection of PGI that can be obtained via application to the CLS DAC (see [Introduction](https://cls-genetics.github.io/docs/intro.html)). These PGI are available for the NCDS, BCS, Next Steps, and MCS (parents and children). 
 

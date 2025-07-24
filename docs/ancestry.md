@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ancestry and genetic similarity
-nav_order: 10
+nav_order: 11
 ---
 
 # **Ancestry and genetic similarity**

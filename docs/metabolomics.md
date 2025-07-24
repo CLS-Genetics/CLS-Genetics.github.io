@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Metabolomics
-nav_exclude: true
+nav_order: 9
 ---
 
 # **Metabolomics** 

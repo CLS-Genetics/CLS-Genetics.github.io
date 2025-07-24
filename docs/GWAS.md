@@ -1,7 +1,7 @@
 ---
 layout: default
 title: GWAS consortia
-nav_order: 9
+nav_order: 10
 ---
 
 # **Use of CLS cohort data in GWAS**

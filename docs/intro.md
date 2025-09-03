@@ -28,6 +28,6 @@ There are two main types of genomic data available to researchers at present: ge
 
 ## Updates:
 
+- **CLS polygenic indexes now available via the UKDS**: For further information see the [PGI page](/docs/PRS.html).
 - **Resource profile paper now published**: See [here](https://academic.oup.com/ije/article/54/5/dyaf141/8237599).
-- **Coming 2025**: Polygenic scores for multiple health and social traits ([details](/docs/PRS.html))
 - **2024**: TOPMed imputation completed across all cohorts

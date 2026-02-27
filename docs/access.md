@@ -11,7 +11,8 @@ Pseudonymised genomic data are available without charge to the global research c
 There are two access procedures depending on the data that you would like to request, as outlined below.
 
 # **Genomewide genetic data (raw and imputed)** 
-To access genomewide genetic data, please see the <a href="https://cls.ucl.ac.uk/data-access-training/data-access/">CLS access page</a> (i.e., complete the application form which is then reviewed approximately monthly in data access committee meetings; the same process applies to internal and external applicants).
+To access genomewide genetic data, please see the <a href="https://cls.ucl.ac.uk/data-access-training/data-access/">CLS access page</a> (i.e., complete the <a href="https://cls.ucl.ac.uk/wp-content/uploads/2017/02/CLS_data_access_guidelines_and_application.docx">application form</a> 
+which is then reviewed approximately monthly in data access committee meetings; the same process applies to internal and external applicants + email it to clsdata@ucl.ac.uk).
 
 The <a href="https://cls.ucl.ac.uk/wp-content/uploads/2017/02/CLS_Data_Access_Framework.pdf">CLS Data Access Framework</a> gives further details on the application process, including details on ethics and socially controversial research. Section 8.2 covers data applications via the CLS DAC for genetic data. 
 

@@ -6,7 +6,7 @@ nav_order: 1
 
 # **Introduction** 
 
-The Centre for Longitudinal Studies ([CLS](https://cls.ucl.ac.uk)) maintains genetic data from four British birth cohorts: the 1958 National Child Development Study (NCDS), the 1970 British Cohort Study (BCS70), Next Steps (1989-90), and the Millennium Cohort Study (MCS, 2000-02). This site provides technical documentation and access information for researchers.
+The ([Centre for Longitudinal Studies](https://cls.ucl.ac.uk)) maintains genetic data from four British birth cohorts: the 1958 National Child Development Study (NCDS), the 1970 British Cohort Study (BCS70), Next Steps (1989-90), and the Millennium Cohort Study (MCS, 2000-02). This GitHub site provides technical documentation and access information for researchers on the CLS genomics data; more detailed information on the cohorts is available via the ([main CLS website](https://cls.ucl.ac.uk)). 
 
 See our [data resource profile paper](https://academic.oup.com/ije/article/54/5/dyaf141/8237599) for background. 
 

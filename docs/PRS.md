@@ -14,10 +14,12 @@ These PGI are available from the UKDS under Special Licence at the following lin
 [Next Steps PGIs](https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=9438)  
 [MCS PGIs](https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=9437)  
 
-The current PGI have been developed using a clumping and thresholding (C+T) approach, implemented in [PRSice-2](https://choishingwan.github.io/PRSice/), across five p-value thresholds. Full details on the approach used are given in the [UKDS documentation](https://doc.ukdataservice.ac.uk/doc/9440/mrdoc/pdf/ukds_user_guide_cls_pgis.pdf). The pipeline code used to generate the PGI is available on the [CLS Data GitHub](https://github.com/CLS-Data/CLS_PGI_repository).
+The current PGI have been developed using a clumping and thresholding (C+T) approach, implemented in [PRSice-2](https://choishingwan.github.io/PRSice/), across five p-value thresholds. Full details on the approach used are given in the [UKDS documentation](https://doc.ukdataservice.ac.uk/doc/9440/mrdoc/pdf/ukds_user_guide_cls_pgis.pdf). 
 
-Future releases of the PGI will include additional traits and PGI generated with model-based approaches e.g., LDpred2.  
+Future releases of the PGI will include additional traits and PGI generated with model-based approaches e.g., LDpred2. 
 
+## PGI pipeline code
+The pipeline code used to generate the PGI is available on the [CLS Data GitHub](https://github.com/CLS-Data/CLS_PGI_repository).
 
 ## Current PGI available via the UKDS (v1.0, first release: 03/09/2025)
 **Anthropometrics**

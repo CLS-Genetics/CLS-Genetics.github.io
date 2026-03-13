@@ -26,7 +26,7 @@ Imputed genotypes were then filtered with PLINK2.0alpha, excluding SNPs with an 
 
 We identified European samples using the GenoPred pipeline which involved (i) merging the BCS70 genotypes with data from 1000 genomes Phase 3, (ii) linkage disequilibrium pruning the overlapping single nucleotide polymorphisms (SNPs) such that no pair of SNPs within 1000 bp had r2 > 0.20, and (iii) using an elastic net model to establish which of the super populations the samples fall into (Africans [AFR], Admixed Americans [AMR], East Asians [EAS], Europeans [EUR] and South Asians [SAS]). Although each sample gets assigned to a superpopulation, there were some ancestral outliers within these groups. We used a threshold of >4 standard deviations from the mean of PC1 to identify outliers. We have not removed these samples but have included a column ("eur") in the basic demographics file that identifies participants labelled as European ancestry and <4 SD on PC1 so that samples can be filtered based on this (N=5,361). 
 
-The final quality controlled imputed set of genotypes contained 5,598 samples and ~8,640,849 variants. These data are provided in plink format on genome build hg38.
+The final quality controlled imputed set of genotypes contains 5,598 samples and 8,640,849 variants. These data are provided in plink format on genome build hg38.
 
 
 
